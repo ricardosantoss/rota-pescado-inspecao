@@ -182,4 +182,4 @@ tbody tr.sel { background: #e4eff3; }
 }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 
-.destaque { background: #e4eff3; color: var(--primaria-escura); font-weight: 600; padding: 1px 6px; border-radius: 4px; }
+.destaque { color: var(--primaria); font-weight: 600; }
