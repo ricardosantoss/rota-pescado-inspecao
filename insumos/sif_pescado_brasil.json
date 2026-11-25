@@ -1,0 +1,2825 @@
+[
+{
+"sif": "3609",
+"razao": "VALÊNÇA DA BAHIA MARICULTURA S/A",
+"fantasia": "",
+"municipio": "VALENÇA",
+"uf": "BA",
+"registro": "2015-07-30",
+"reserva": "1993-06-22",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "349",
+"razao": "INDUSTRIA DE FRIO E PESCA SA",
+"fantasia": "IPESCA",
+"municipio": "FORTALEZA",
+"uf": "CE",
+"registro": "1998-10-20",
+"reserva": "1968-12-11",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "971",
+"razao": "ICAPEL ICAPUI PESCA LTDA",
+"fantasia": "ICAPEL",
+"municipio": "ICAPUÍ",
+"uf": "CE",
+"registro": "1984-06-20",
+"reserva": "1980-04-16",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "948",
+"razao": "INDUSTRIAS ALIMENTICIAS LEAL SANTOS LTDA",
+"fantasia": "",
+"municipio": "RIO GRANDE",
+"uf": "RS",
+"registro": "1979-05-23",
+"reserva": "1973-08-27",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / CP1 - CONSERVA DE PESCADO"
+]
+},
+{
+"sif": "1430",
+"razao": "TOURS BRASIL INDUSTRIA E COMERCIO DE ALIMENTOS LTDA",
+"fantasia": "TOURS BRASIL",
+"municipio": "ITAJAÍ",
+"uf": "SC",
+"registro": "2015-08-13",
+"reserva": "1990-04-27",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / CP1 - CONSERVA DE PESCADO",
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / MSD - MIGRADO - SDA DIGITAL"
+]
+},
+{
+"sif": "20",
+"razao": "FEMEPE CAPTURA COMERCIO E INDUSTRIA DE PESCADOS LTDA",
+"fantasia": "-",
+"municipio": "ITAJAÍ",
+"uf": "SC",
+"registro": "2015-08-13",
+"reserva": "1972-02-24",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "2605",
+"razao": "COMERCIO E INDUSTRIA DE PESCADOS KOWALSKY",
+"fantasia": "-",
+"municipio": "ITAJAÍ",
+"uf": "SC",
+"registro": "2015-08-13",
+"reserva": "1983-06-10",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "1910",
+"razao": "ARTICO S/A",
+"fantasia": "ARTICO COMERCIAL",
+"municipio": "RIO GRANDE",
+"uf": "RS",
+"registro": "2019-08-01",
+"reserva": "1976-01-19",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3300",
+"razao": "C.VALE - COOPERATIVA AGROINDUSTRIAL",
+"fantasia": "C.VALE",
+"municipio": "PALOTINA",
+"uf": "PR",
+"registro": "2002-07-03",
+"reserva": "1997-08-06",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "2141",
+"razao": "C NORTE PESCADOS LTDA",
+"fantasia": "NORTE PESCADOS",
+"municipio": "BELÉM",
+"uf": "PA",
+"registro": "1980-08-19",
+"reserva": "1979-01-22",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "2242",
+"razao": "AMAZONAS INDUSTRIAS ALIMENTICIAS S A AMASA",
+"fantasia": "-",
+"municipio": "BELÉM",
+"uf": "PA",
+"registro": "1979-08-22",
+"reserva": "1978-10-17",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "4444",
+"razao": "LAR COOPERATIVA AGROINDUSTRIAL",
+"fantasia": "LAR",
+"municipio": "MATELÂNDIA",
+"uf": "PR",
+"registro": "2002-06-05",
+"reserva": "1999-08-17",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "4651",
+"razao": "COMPANHIA BRASILEIRA DE DISTRIBUIÇÃO",
+"fantasia": "",
+"municipio": "OSASCO",
+"uf": "SP",
+"registro": "2012-04-13",
+"reserva": "2001-05-21",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "4314",
+"razao": "RIO VERDE ARMAZENAGEM LTDA",
+"fantasia": "",
+"municipio": "RIO DE JANEIRO",
+"uf": "RJ",
+"registro": "2015-08-10",
+"reserva": "1998-08-03",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "4220",
+"razao": "ASMARANA INDÚSTRIA E COMÉRCIO DE PRODUTOS NATURAIS LTDA - ME",
+"fantasia": "ASMARANA PRODUTOS NATURAIS",
+"municipio": "MACAÍBA",
+"uf": "RN",
+"registro": "2012-11-07",
+"reserva": "2010-07-08",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "4187",
+"razao": "INDUSTRIA E COMERCIO DE PESCADO ARAPONGAS LTDA",
+"fantasia": "PESCADO ARAPONGAS",
+"municipio": "ARAPONGAS",
+"uf": "PR",
+"registro": "2015-08-08",
+"reserva": "1997-12-23",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3567",
+"razao": "FENIX INDUSTRIA E COMERCIO DE ALIMENTOS LTDA",
+"fantasia": "-",
+"municipio": "SÃO PAULO",
+"uf": "SP",
+"registro": "2015-03-09",
+"reserva": "1993-03-26",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3512",
+"razao": "VELT ALIMENTOS LTDA",
+"fantasia": "VELT ALIMENTOS",
+"municipio": "LAGUNA",
+"uf": "SC",
+"registro": "2019-07-29",
+"reserva": "1992-12-09",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3520",
+"razao": "JMS INDUSTRIA E COMERCIO DE PESCADOS LTDA EM RECUPERACAO JUDICIAL",
+"fantasia": "-",
+"municipio": "PENHA",
+"uf": "SC",
+"registro": "2015-08-13",
+"reserva": "1999-09-20",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3104",
+"razao": "COSTA SUL PESCADOS S/A",
+"fantasia": "",
+"municipio": "NAVEGANTES",
+"uf": "SC",
+"registro": "2006-08-09",
+"reserva": "1987-08-10",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3117",
+"razao": "D A COIMBRA PESCADOS INDUSTRIA E COMERCIO",
+"fantasia": "FRIGORIFICO O PEIXAO",
+"municipio": "SANTARÉM",
+"uf": "PA",
+"registro": "2002-01-14",
+"reserva": "1987-08-31",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "2910",
+"razao": "AQUAPESCA INDUSTRIA E COMERCIO DE PESCADOS LTDA",
+"fantasia": "AQUAPESCA",
+"municipio": "LAGUNA",
+"uf": "SC",
+"registro": "2015-08-13",
+"reserva": "1986-03-31",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / CP1 - CONSERVA DE PESCADO"
+]
+},
+{
+"sif": "2564",
+"razao": "PINHEIRO & RODRIGUES LTDA",
+"fantasia": "FRIGOPESCA - FRIGORIFICO DE PESCADOS DA AMAZONIA",
+"municipio": "MANACAPURU",
+"uf": "AM",
+"registro": "2009-09-03",
+"reserva": "1996-01-10",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "2419",
+"razao": "SSP COMERCIO DE FRUTOS DO MAR LTDA",
+"fantasia": "SOUTHERN SEAS PRODUCTS",
+"municipio": "BIGUAÇU",
+"uf": "SC",
+"registro": "2015-08-13",
+"reserva": "1979-10-29",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "198",
+"razao": "AMAZON NORTE INDUSTRIA E COMERCIO DE PESCADOS LTDA",
+"fantasia": "AMERICA DO SUL ALIMENTOS CONGELADOS",
+"municipio": "BELÉM",
+"uf": "PA",
+"registro": "1980-01-21",
+"reserva": "1970-10-08",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS",
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / MSD - MIGRADO - SDA DIGITAL"
+]
+},
+{
+"sif": "2377",
+"razao": "AGROFISH BRASIL LTDA",
+"fantasia": "-",
+"municipio": "PAULO AFONSO",
+"uf": "BA",
+"registro": "2015-07-09",
+"reserva": "2002-08-20",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "2280",
+"razao": "PESCADOS ITACOLOMI RIO E MAR LTDA",
+"fantasia": "PESCADOS RIO E MAR",
+"municipio": "BALNEÁRIO PIÇARRAS",
+"uf": "SC",
+"registro": "2015-08-13",
+"reserva": "2002-09-09",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "2731",
+"razao": "CANAA INDUSTRIA E COMERCIO DE PESCADOS LTDA",
+"fantasia": "-",
+"municipio": "ITAJAÍ",
+"uf": "SC",
+"registro": "2013-08-15",
+"reserva": "2003-01-27",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "832",
+"razao": "SAMARIA UNIDADE DE BENEFICIAMENTO LTDA",
+"fantasia": "POTIPORA",
+"municipio": "PENDÊNCIAS",
+"uf": "RN",
+"registro": "2014-10-03",
+"reserva": "2003-05-09",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS",
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / MSD - MIGRADO - SDA DIGITAL"
+]
+},
+{
+"sif": "3708",
+"razao": "COMERCIO DE PESCADOS VILLA IMPORTACAO E EXPORTACAO LTDA",
+"fantasia": "-",
+"municipio": "SANTOS",
+"uf": "SP",
+"registro": "2015-08-14",
+"reserva": "2005-01-06",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3560",
+"razao": "FRIOLINS INDUSTRIA E COMERCIO DE PESCADOS LTDA",
+"fantasia": "FRIOLINS",
+"municipio": "MANACAPURU",
+"uf": "AM",
+"registro": "2009-09-03",
+"reserva": "2005-10-24",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "1851",
+"razao": "MAR E RIO PESCADOS, INDUSTRIA, IMPORTACAO E EXPORTACAO LTDA",
+"fantasia": "-",
+"municipio": "IPIGUÁ",
+"uf": "SP",
+"registro": "2008-01-07",
+"reserva": "2006-10-11",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3171",
+"razao": "VAPZA ALIMENTOS S/A",
+"fantasia": "",
+"municipio": "CASTRO",
+"uf": "PR",
+"registro": "2012-05-30",
+"reserva": "2007-12-06",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / CP1 - CONSERVA DE PESCADO"
+]
+},
+{
+"sif": "3851",
+"razao": "RANARIO LARANJEIRAS LTDA",
+"fantasia": "RANAJAX",
+"municipio": "GAMELEIRA DE GOIÁS",
+"uf": "GO",
+"registro": "2015-08-04",
+"reserva": "2008-12-15",
+"classes": [
+"ABATEDOURO FRIGORÍFICO DE PESCADO - P05 / AP1 - ABATEDOURO FRIGORÍFICO DE PESCADO"
+]
+},
+{
+"sif": "23",
+"razao": "RANAC AGROINDUSTRIAL LTDA",
+"fantasia": "RANAC AGROINDUSTRIAL",
+"municipio": "ANTÔNIO CARLOS",
+"uf": "SC",
+"registro": "2019-07-24",
+"reserva": "2009-10-05",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "1025",
+"razao": "RAMAX DISTRIBUIDORA LTDA",
+"fantasia": "RAMAX DISTRIBUIDORA",
+"municipio": "SÃO PAULO",
+"uf": "SP",
+"registro": "2010-12-15",
+"reserva": "2010-12-15",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "1735",
+"razao": "CAVIAR BRASIL PRODUTOS ALIMENTICIOS LTDA",
+"fantasia": "BOTTARGA GOLD",
+"municipio": "ITAJAÍ",
+"uf": "SC",
+"registro": "2015-08-13",
+"reserva": "2011-11-24",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / CP1 - CONSERVA DE PESCADO",
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / MSD - MIGRADO - SDA DIGITAL"
+]
+},
+{
+"sif": "37",
+"razao": "AMAZONIA INDUSTRIA E COMERCIO DE PESCADO LTDA",
+"fantasia": "NIPPOBRAZ",
+"municipio": "BELÉM",
+"uf": "PA",
+"registro": "2015-08-07",
+"reserva": "2012-07-24",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "476",
+"razao": "ALIANCA DO TOCANTINS INDUSTRIA PESQUEIRA LTDA",
+"fantasia": "BONUTT FISHER",
+"municipio": "ALIANÇA DO TOCANTINS",
+"uf": "TO",
+"registro": "2015-08-06",
+"reserva": "2012-08-21",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "658",
+"razao": "FRANGOPURO INDÚSTRIA DE ALIMENTOS LTDA - EPP",
+"fantasia": "FRANGOPURO",
+"municipio": "INDAIAL",
+"uf": "SC",
+"registro": "2015-08-13",
+"reserva": "2012-08-27",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "2163",
+"razao": "SO PESCA INDUSTRIA E COMERCIO DE PEIXES LIMITADA",
+"fantasia": "-",
+"municipio": "CERQUILHO",
+"uf": "SP",
+"registro": "2015-08-14",
+"reserva": "2012-10-25",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3167",
+"razao": "JERRI DA SILVA FRANCISCO",
+"fantasia": "AGUIA RIO COMERCIO E TRANSPORTE DE PESCADOS.",
+"municipio": "RIO GRANDE",
+"uf": "RS",
+"registro": "2015-08-13",
+"reserva": "2013-07-09",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "1200",
+"razao": "KALEFA INDUSTRIA E COMERCIO DE PESCADOS LTDA",
+"fantasia": "KALEFA",
+"municipio": "INDAIATUBA",
+"uf": "SP",
+"registro": "2015-08-14",
+"reserva": "2013-12-12",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "819",
+"razao": "WORLD FISH COMERCIO DE PESCADOS LTDA",
+"fantasia": "WORLD FISH PESCADOS",
+"municipio": "RIO GRANDE",
+"uf": "RS",
+"registro": "2015-08-12",
+"reserva": "2014-01-09",
+"classes": [
+"BARCO FÁBRICA - P3 / BF1 - BARCO FABRICA"
+]
+},
+{
+"sif": "4368",
+"razao": "NATUFISH PISCICULTURA LTDA",
+"fantasia": "NATUFISH",
+"municipio": "HORIZONTINA",
+"uf": "RS",
+"registro": "2019-08-01",
+"reserva": "2014-10-03",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3204",
+"razao": "M CASSAB COMERCIO E INDUSTRIA LTDA",
+"fantasia": "MCASSAB RIFAINA",
+"municipio": "RIFAINA",
+"uf": "SP",
+"registro": "2015-08-14",
+"reserva": "2014-12-04",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3259",
+"razao": "P. N. V. DE FIGUEIREDO COM. IND. IMPORT. E EXPORTAO",
+"fantasia": "R P M DISTRIBUIDORA",
+"municipio": "OIAPOQUE",
+"uf": "AP",
+"registro": "2015-07-08",
+"reserva": "2015-01-12",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3133",
+"razao": "FRIGORIFICO JSA INDUSTRIA E COMERCIO LTDA",
+"fantasia": "-",
+"municipio": "SÃO PAULO",
+"uf": "SP",
+"registro": "2015-08-14",
+"reserva": "2015-02-04",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3107",
+"razao": "IGLU COMERCIAL E IMPORTADORA LTDA",
+"fantasia": "IGLU COMERCIAL E IMPORTADORA LTDA",
+"municipio": "SÃO JOSÉ DO RIO PARDO",
+"uf": "SP",
+"registro": "2015-08-14",
+"reserva": "2015-04-08",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "1679",
+"razao": "MAURO YOSHIO NAKATA LTDA",
+"fantasia": "-",
+"municipio": "FARTURA",
+"uf": "SP",
+"registro": "2015-12-13",
+"reserva": "2015-12-23",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "4199",
+"razao": "BELLO ALIMENTOS LTDA",
+"fantasia": "-",
+"municipio": "APARECIDA DO TABOADO",
+"uf": "MS",
+"registro": "2016-02-29",
+"reserva": "2016-02-29",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3303",
+"razao": "C.VALE - COOPERATIVA AGROINDUSTRIAL",
+"fantasia": "-",
+"municipio": "PALOTINA",
+"uf": "PR",
+"registro": "2017-10-10",
+"reserva": "2017-10-10",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "367",
+"razao": "ATACADO DO PEIXE DE PORTO SEGURO LTDA",
+"fantasia": "ATACADO DO PEIXE",
+"municipio": "PORTO SEGURO",
+"uf": "BA",
+"registro": "2018-07-30",
+"reserva": "2018-07-30",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3502",
+"razao": "JAIR MARINHO ARCARI & CIA LTDA",
+"fantasia": "RAFRIG ALIMENTOS",
+"municipio": "CHAPECÓ",
+"uf": "SC",
+"registro": "2018-10-11",
+"reserva": "2018-10-11",
+"classes": [
+"ABATEDOURO FRIGORÍFICO DE PESCADO - P05 / AP1 - ABATEDOURO FRIGORÍFICO DE PESCADO"
+]
+},
+{
+"sif": "771",
+"razao": "PSP INDUSTRIA, COMERCIO, IMPORTACAO E EXPORTACAO LTDA",
+"fantasia": "PSP",
+"municipio": "ITAPUÃ DO OESTE",
+"uf": "RO",
+"registro": "2019-03-15",
+"reserva": "2019-03-15",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "26",
+"razao": "M & M COMERCIO E EXPORTACAO DE PESCADOS E FRUTOS DO MAR LTDA",
+"fantasia": "AQUAMAR",
+"municipio": "BRAGANÇA",
+"uf": "PA",
+"registro": "2019-07-23",
+"reserva": "2019-07-23",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "5011",
+"razao": "JOSE ANTONIO C. LUCAS LTDA",
+"fantasia": "-",
+"municipio": "RIO GRANDE",
+"uf": "RS",
+"registro": "2020-06-04",
+"reserva": "2020-06-04",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / FPS1 - FÁBRICA DE PESCADOS"
+]
+},
+{
+"sif": "5374",
+"razao": "EPITACIO PESCADOS  IMPORTADORA LTDA",
+"fantasia": "TUDO DO MAR PESCADOS",
+"municipio": "RECIFE",
+"uf": "PE",
+"registro": "2022-10-19",
+"reserva": "2022-10-19",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "5456",
+"razao": "MG2 INDUSTRIA E COMERCIO DE ALIMENTOS LTDA",
+"fantasia": "-",
+"municipio": "RECIFE",
+"uf": "PE",
+"registro": "2023-05-30",
+"reserva": "2023-05-30",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "5547",
+"razao": "BLAZE COMERCIO EXTERIOR LTDA",
+"fantasia": "-",
+"municipio": "FLORIANÓPOLIS",
+"uf": "SC",
+"registro": "2024-02-28",
+"reserva": "2024-02-28",
+"classes": [
+"BARCO FÁBRICA - P3 / BF1 - BARCO FABRICA"
+]
+},
+{
+"sif": "5684",
+"razao": "COLPANI INDUSTRIA E COMERCIO DE PESCADOS LTDA",
+"fantasia": "COLPANI PESCADOS",
+"municipio": "MOCOCA",
+"uf": "SP",
+"registro": "2025-03-11",
+"reserva": "2025-03-11",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / FPS1 - FÁBRICA DE PESCADOS"
+]
+},
+{
+"sif": "5688",
+"razao": "RB ALIMENTOS DO MAR LTDA",
+"fantasia": "RB ALIMENTOS DO MAR",
+"municipio": "NATAL",
+"uf": "RN",
+"registro": "2025-04-02",
+"reserva": "2025-04-02",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "2087",
+"razao": "GDC ALIMENTOS S.A",
+"fantasia": "-",
+"municipio": "ITAJAÍ",
+"uf": "SC",
+"registro": "1976-04-27",
+"reserva": "1966-12-23",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / CP1 - CONSERVA DE PESCADO"
+]
+},
+{
+"sif": "2535",
+"razao": "LEARDINI PESCADOS LTDA",
+"fantasia": "-",
+"municipio": "NAVEGANTES",
+"uf": "SC",
+"registro": "1999-07-09",
+"reserva": "1982-11-26",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "241",
+"razao": "TORQUATO PONTES PESCADOS SA",
+"fantasia": "-",
+"municipio": "RIO GRANDE",
+"uf": "RS",
+"registro": "2019-08-01",
+"reserva": "1971-05-19",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "715",
+"razao": "NORTE PESCA SA - EM RECUPERACAO JUDICIAL",
+"fantasia": "-",
+"municipio": "NATAL",
+"uf": "RN",
+"registro": "2015-08-10",
+"reserva": "1974-05-12",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "4492",
+"razao": "MS PESCADOS COMERCIO EXPORTACAO E IMPORTACAO S/A",
+"fantasia": "ALLMARE ALIMENTOS",
+"municipio": "ACARAÚ",
+"uf": "CE",
+"registro": "2012-06-26",
+"reserva": "2000-01-13",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "4295",
+"razao": "ATUM DO BRASIL CAPTURA INDUSTRIA E COMERCIO LTDA - EM RECUPERACAO JUDICIAL",
+"fantasia": "-",
+"municipio": "ITAPEMIRIM",
+"uf": "ES",
+"registro": "2015-07-31",
+"reserva": "1998-07-13",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3174",
+"razao": "CAIS DO ATLANTICO INDUSTRIA E COMERCIO DE PESCADOS LTDA",
+"fantasia": "-",
+"municipio": "ITAJAÍ",
+"uf": "SC",
+"registro": "2015-08-13",
+"reserva": "1988-01-26",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "2079",
+"razao": "ASIAMÉRICA INDUSTRIA E COMÉRCIO DE PESCADOS LTDA",
+"fantasia": "",
+"municipio": "RIO GRANDE",
+"uf": "RS",
+"registro": "2015-08-12",
+"reserva": "1954-01-05",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "2148",
+"razao": "INDUSTRIA DE PESCADO ROCHA LTDA",
+"fantasia": "-",
+"municipio": "GOVERNADOR CELSO RAMOS",
+"uf": "SC",
+"registro": "2015-08-13",
+"reserva": "1988-01-04",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / CP1 - CONSERVA DE PESCADO"
+]
+},
+{
+"sif": "1950",
+"razao": "CONSERVAS PIRACEMA S/A - FALIDA",
+"fantasia": "",
+"municipio": "SÃO GONÇALO",
+"uf": "RJ",
+"registro": "1997-09-22",
+"reserva": "1976-05-18",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "96",
+"razao": "SALINAS INDUSTRIA DE PESCA LTDA",
+"fantasia": "SALINAS",
+"municipio": "AREIA BRANCA",
+"uf": "RN",
+"registro": "2010-10-28",
+"reserva": "1974-02-04",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "249",
+"razao": "CONSERVAS RUBI S/A",
+"fantasia": "RUBI/NAVE",
+"municipio": "SÃO GONÇALO",
+"uf": "RJ",
+"registro": "1997-11-05",
+"reserva": "1972-01-01",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / CP1 - CONSERVA DE PESCADO"
+]
+},
+{
+"sif": "728",
+"razao": "PRODUMAR - EXPORTADORA DE PRODUTOS DO MAR LTDA",
+"fantasia": "",
+"municipio": "NATAL",
+"uf": "RN",
+"registro": "2015-08-10",
+"reserva": "2002-04-01",
+"classes": [
+"BARCO FÁBRICA - P3 / BF1 - BARCO FABRICA"
+]
+},
+{
+"sif": "3465",
+"razao": "COMPESCAL COMÉRCIO DE PESCADO ARACATIENSE LTDA",
+"fantasia": "COMPESCAL",
+"municipio": "ARACATI",
+"uf": "CE",
+"registro": "2005-12-02",
+"reserva": "2003-02-18",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "2985",
+"razao": "MAR & TERRA INDUSTRIA E COMERCIO DE PESCADOS S.A.",
+"fantasia": "MAR & TERRA",
+"municipio": "ITAPORÃ",
+"uf": "MS",
+"registro": "2015-07-30",
+"reserva": "2003-10-17",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS",
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / MSD - MIGRADO - SDA DIGITAL"
+]
+},
+{
+"sif": "4164",
+"razao": "CAJUCOCO AQUACULTURA E AGROINDUSTRIA LTDA",
+"fantasia": "-",
+"municipio": "ITAREMA",
+"uf": "CE",
+"registro": "2010-09-20",
+"reserva": "2003-12-22",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "2418",
+"razao": "COSTIERO INDUSTRIA E COMERCIO DE PESCADOS LTDA",
+"fantasia": "COSTIERO ALIMENTOS",
+"municipio": "TEUTÔNIA",
+"uf": "RS",
+"registro": "2019-08-01",
+"reserva": "2004-03-11",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "1905",
+"razao": "CARAPITANGA INDUSTRIA DE PESCADOS DO BRASIL LTDA",
+"fantasia": "CARAPITANGA PESCADOS DO BRASIL",
+"municipio": "JABOATÃO DOS GUARARAPES",
+"uf": "PE",
+"registro": "2015-08-07",
+"reserva": "2005-04-29",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "4089",
+"razao": "SUL FOODS INDUSTRIA E COMERCIO DE ALIMENTOS S.A.",
+"fantasia": "SUL FOODS S.A.",
+"municipio": "GARIBALDI",
+"uf": "RS",
+"registro": "2015-08-13",
+"reserva": "2005-05-19",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3992",
+"razao": "CRUSOE FOODS INDUSTRIA, IMPORTACAO E EXPORTACAO LTDA",
+"fantasia": "-",
+"municipio": "SÃO GONÇALO DO AMARANTE",
+"uf": "CE",
+"registro": "2010-08-04",
+"reserva": "2005-06-03",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / CP1 - CONSERVA DE PESCADO"
+]
+},
+{
+"sif": "3218",
+"razao": "MONTEIRO INDÚSTRIA DE PESCADOS LTDA",
+"fantasia": "",
+"municipio": "ITAREMA",
+"uf": "CE",
+"registro": "2011-03-14",
+"reserva": "2006-04-19",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "1881",
+"razao": "CARREFOUR COMERCIO E INDUSTRIA LTDA",
+"fantasia": "-",
+"municipio": "ITAPEVI",
+"uf": "SP",
+"registro": "2015-08-14",
+"reserva": "2009-12-15",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS",
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / MSD - MIGRADO - SDA DIGITAL"
+]
+},
+{
+"sif": "697",
+"razao": "PORTO BELO PESCADOS LTDA.",
+"fantasia": "-",
+"municipio": "PORTO BELO",
+"uf": "SC",
+"registro": "2015-08-13",
+"reserva": "2012-02-28",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / CP1 - CONSERVA DE PESCADO"
+]
+},
+{
+"sif": "580",
+"razao": "FRUMAR FRUTOS DO MAR LTDA",
+"fantasia": "FRUMAR FRUTOS DO MAR LTDA.",
+"municipio": "TIJUCAS",
+"uf": "SC",
+"registro": "2015-08-13",
+"reserva": "2013-08-02",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / CP1 - CONSERVA DE PESCADO"
+]
+},
+{
+"sif": "4559",
+"razao": "BRASCOD - COMÉRCIO, IMPORTAÇÃO E EXPORTAÇÃO LTDA",
+"fantasia": "",
+"municipio": "BARUERI",
+"uf": "SP",
+"registro": "2015-08-17",
+"reserva": "2013-09-11",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3630",
+"razao": "BRASINO LTDA",
+"fantasia": "BRASINO",
+"municipio": "PROPRIÁ",
+"uf": "SE",
+"registro": "2015-08-14",
+"reserva": "2014-02-06",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3416",
+"razao": "MOINHO AGRONEGOCIO LTDA - ME",
+"fantasia": "FRIGORA",
+"municipio": "NOVA ERA",
+"uf": "MG",
+"registro": "2015-08-06",
+"reserva": "2014-03-20",
+"classes": [
+"ABATEDOURO FRIGORÍFICO DE PESCADO - P05 / AP1 - ABATEDOURO FRIGORÍFICO DE PESCADO"
+]
+},
+{
+"sif": "4239",
+"razao": "NG WAI MAN COMERCIO INDUSTRIA E EXPORTACAO EIRELI",
+"fantasia": "",
+"municipio": "ANANINDEUA",
+"uf": "PA",
+"registro": "2015-08-07",
+"reserva": "2014-05-16",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "4065",
+"razao": "RARO INDUSTRIA DE ALIMENTOS LTDA",
+"fantasia": "-",
+"municipio": "CONTAGEM",
+"uf": "MG",
+"registro": "2016-01-14",
+"reserva": "2016-01-14",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "240",
+"razao": "BRASIL GOURMET INDUSTRIA E COMERCIO DE ALIMENTOS S. A.",
+"fantasia": "BRASIL GOURMET",
+"municipio": "JUIZ DE FORA",
+"uf": "MG",
+"registro": "2016-07-05",
+"reserva": "2016-07-05",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / CP1 - CONSERVA DE PESCADO"
+]
+},
+{
+"sif": "5453",
+"razao": "A.O. RODRIGUES IMPORTACAO E EXPORTACAO DE PESCADOS LTDA",
+"fantasia": "KING FISH IMPORTACAO E EXPORTACAO",
+"municipio": "BARUERI",
+"uf": "SP",
+"registro": "2023-05-29",
+"reserva": "2023-05-29",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "5656",
+"razao": "DIA A DIA SEAFOOD INTERNATIONAL TRADING COMERCIO, IMPORTACAO E EXPORTACAO LTDA",
+"fantasia": "-",
+"municipio": "GUARULHOS",
+"uf": "SP",
+"registro": "2024-12-26",
+"reserva": "2024-12-26",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "7330",
+"razao": "ASOIA & CIA. LTDA.",
+"fantasia": "H LIDER PESCADOS - SAINT PETER",
+"municipio": "TERRA RICA",
+"uf": "PR",
+"registro": "2025-12-04",
+"reserva": "",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / MSD - MIGRADO - SDA DIGITAL"
+]
+},
+{
+"sif": "5705",
+"razao": "KALLUSA ALIMENTOS LTDA",
+"fantasia": "KALLUSA",
+"municipio": "SOROCABA",
+"uf": "SP",
+"registro": "2026-01-20",
+"reserva": "2026-01-20",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "5711",
+"razao": "BETTER FISH INDUSTRIA E COMERCIO DE PEIXES LTDA",
+"fantasia": "BETTER FISH",
+"municipio": "MERCEDES",
+"uf": "PR",
+"registro": "2026-08-10",
+"reserva": "2026-08-10",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "558",
+"razao": "CAMIL ALIMENTOS S.A.",
+"fantasia": "CAMIL ALIMENTOS",
+"municipio": "NAVEGANTES",
+"uf": "SC",
+"registro": "2012-04-03",
+"reserva": "1984-11-20",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / CP1 - CONSERVA DE PESCADO",
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / MSD - MIGRADO - SDA DIGITAL"
+]
+},
+{
+"sif": "1275",
+"razao": "ICAP INDUSTRIA E COMERCIO CATARINENSE DE PESCADO LTDA",
+"fantasia": "-",
+"municipio": "PORTO BELO",
+"uf": "SC",
+"registro": "2015-08-13",
+"reserva": "1977-08-25",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "4528",
+"razao": "PRIME SEAFOOD LTDA",
+"fantasia": "PRIME SEAFOOD",
+"municipio": "ALCOBAÇA",
+"uf": "BA",
+"registro": "2015-07-30",
+"reserva": "2000-08-09",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "4482",
+"razao": "PRIMATO COOPERATIVA AGROINDUSTRIAL",
+"fantasia": "PRIMATO",
+"municipio": "TOLEDO",
+"uf": "PR",
+"registro": "2005-11-10",
+"reserva": "1999-12-20",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "1916",
+"razao": "OSVALDO FORTES DO REGO NETO FORTES PESCADOS LTDA",
+"fantasia": "FORTES PESCADOS",
+"municipio": "CALÇOENE",
+"uf": "AP",
+"registro": "2015-04-23",
+"reserva": "2003-04-08",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3337",
+"razao": "FISH MAR INDUSTRIA, COMERCIO & EXPORTACAO DE PESCADOS LTDA",
+"fantasia": "FISH MAR PESCADOS",
+"municipio": "BELÉM",
+"uf": "PA",
+"registro": "2015-08-07",
+"reserva": "2003-09-25",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "4407",
+"razao": "MATA NORTE ALIMENTOS LTDA",
+"fantasia": "",
+"municipio": "CAMUTANGA",
+"uf": "PE",
+"registro": "2015-08-07",
+"reserva": "2004-08-25",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / CP1 - CONSERVA DE PESCADO"
+]
+},
+{
+"sif": "4403",
+"razao": "INDUSTRIA DE PESCADOS MARCHEF LTDA",
+"fantasia": "MARCHEF",
+"municipio": "GOVERNADOR CELSO RAMOS",
+"uf": "SC",
+"registro": "2015-08-14",
+"reserva": "2006-06-28",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / CP1 - CONSERVA DE PESCADO"
+]
+},
+{
+"sif": "3389",
+"razao": "COOPERATIVA DE MARICULTORES DE PENHA",
+"fantasia": "COOPERMAPE",
+"municipio": "PENHA",
+"uf": "SC",
+"registro": "2015-08-13",
+"reserva": "2007-12-27",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3937",
+"razao": "LAR COOPERATIVA AGROINDUSTRIAL",
+"fantasia": "-",
+"municipio": "SÃO MIGUEL DO IGUAÇU",
+"uf": "PR",
+"registro": "2015-08-08",
+"reserva": "2008-02-27",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS",
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / MSD - MIGRADO - SDA DIGITAL"
+]
+},
+{
+"sif": "2994",
+"razao": "MG2 INDÚSTRIA E COMÉRCIO DE ALIMENTOS LTDA",
+"fantasia": "",
+"municipio": "RECIFE",
+"uf": "PE",
+"registro": "2010-10-28",
+"reserva": "2009-01-13",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "2167",
+"razao": "FRIPEIXES NARDI LTDA",
+"fantasia": "FRIPEIXES",
+"municipio": "TERRA RICA",
+"uf": "PR",
+"registro": "2015-08-08",
+"reserva": "2012-11-13",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "1544",
+"razao": "SUL BRASIL COMERCIO DE ALIMENTOS LTDA",
+"fantasia": "SUL BRASIL COMERCIO DE ALIMENTOS",
+"municipio": "PENHA",
+"uf": "SC",
+"registro": "2015-06-15",
+"reserva": "2013-02-01",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "4214",
+"razao": "CD PAI E FILHO PESCADOS LTDA",
+"fantasia": "CD PAI & FILHO",
+"municipio": "BIGUAÇU",
+"uf": "SC",
+"registro": "2016-02-17",
+"reserva": "2016-02-17",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "4119",
+"razao": "KING FISH EXPORTACAO E IMPORTACAO DE PEIXES LTDA",
+"fantasia": "KING FISH EXPORTACAO E IMPORTACAO DE PESCADOS",
+"municipio": "ANANINDEUA",
+"uf": "PA",
+"registro": "2016-06-03",
+"reserva": "2016-06-03",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "824",
+"razao": "PRIME SEAFOOD LTDA",
+"fantasia": "PRIME - IMPORTACAO E EXPORTACAO S/A",
+"municipio": "RECIFE",
+"uf": "PE",
+"registro": "2016-09-23",
+"reserva": "2016-09-23",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "2400",
+"razao": "BRAZFRIG INDUSTRIA DE ABATE E EXPORTACOES LTDA",
+"fantasia": "ABATE BRAZFRIG",
+"municipio": "CORDISBURGO",
+"uf": "MG",
+"registro": "2019-05-20",
+"reserva": "2019-05-20",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / FPS1 - FÁBRICA DE PESCADOS"
+]
+},
+{
+"sif": "3871",
+"razao": "FREEWAY COMERCIO E IMPORTACAO DE PRODUTOS ALIMENTICIOS LTDA.",
+"fantasia": "-",
+"municipio": "SÃO PAULO",
+"uf": "SP",
+"registro": "2019-12-20",
+"reserva": "2019-12-20",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "5031",
+"razao": "MILTON CARVALHO MACEDO JUNIOR LTDA",
+"fantasia": "-",
+"municipio": "RIO GRANDE",
+"uf": "RS",
+"registro": "2020-07-07",
+"reserva": "2020-07-07",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "5138",
+"razao": "CMS BRAGA COMÉRCIO E EXPORTAÇÃO LTDA",
+"fantasia": "",
+"municipio": "BELÉM",
+"uf": "PA",
+"registro": "2021-04-26",
+"reserva": "2021-04-26",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "5282",
+"razao": "COMPEX INDUSTRIA E COMERCIO DE PESCA E EXPORTACAO LTDA",
+"fantasia": "COMPEX",
+"municipio": "FORTALEZA",
+"uf": "CE",
+"registro": "2022-04-14",
+"reserva": "2022-04-14",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / FPS1 - FÁBRICA DE PESCADOS"
+]
+},
+{
+"sif": "5295",
+"razao": "PRIME SEAFOOD LTDA",
+"fantasia": "PRIME SEAFOOD",
+"municipio": "BRAGANÇA",
+"uf": "PA",
+"registro": "2022-04-29",
+"reserva": "2022-04-29",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "5495",
+"razao": "DO PORTO FRIGORIFICO LTDA",
+"fantasia": "DOPORTO SEAFOOD",
+"municipio": "CABEDELO",
+"uf": "PB",
+"registro": "2023-10-04",
+"reserva": "2023-10-04",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "5505",
+"razao": "MASTERMARES  INDUSTRIA DE PESCADOS LTDA",
+"fantasia": "-",
+"municipio": "RIO DE JANEIRO",
+"uf": "RJ",
+"registro": "2023-11-06",
+"reserva": "2023-11-06",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "5513",
+"razao": "ABATEDOURO ARUMAN LTDA",
+"fantasia": "-",
+"municipio": "PORTO FELIZ",
+"uf": "SP",
+"registro": "2023-12-06",
+"reserva": "2023-12-06",
+"classes": [
+"ABATEDOURO FRIGORÍFICO DE PESCADO - P05 / AP1 - ABATEDOURO FRIGORÍFICO DE PESCADO",
+"ABATEDOURO FRIGORÍFICO DE PESCADO - P05 / MSD - MIGRADO - SDA DIGITAL"
+]
+},
+{
+"sif": "5552",
+"razao": "KARU AMAZON LTDA",
+"fantasia": "KARU AMAZON FOOD",
+"municipio": "MANAUS",
+"uf": "AM",
+"registro": "2024-03-13",
+"reserva": "2024-03-13",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "7440",
+"razao": "G DA L CAXIAS LTDA",
+"fantasia": "KAUAN PESCADOS",
+"municipio": "SÃO JOSÉ DE RIBAMAR",
+"uf": "MA",
+"registro": "2026-06-25",
+"reserva": "",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / MSD - MIGRADO - SDA DIGITAL"
+]
+},
+{
+"sif": "1939",
+"razao": "BRASFISH - INDUSTRIA E COMERCIO LTDA",
+"fantasia": "BRASFISH - IND. E COM. LTDA",
+"municipio": "CABO FRIO",
+"uf": "RJ",
+"registro": "2015-08-10",
+"reserva": "1976-03-25",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "1786",
+"razao": "PRODUMAR - EXPORTADORA DE PRODUTOS DO MAR LTDA",
+"fantasia": "",
+"municipio": "NATAL",
+"uf": "RN",
+"registro": "1980-08-26",
+"reserva": "1980-08-26",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "2810",
+"razao": "TAPANA EXPORTADORA LTDA",
+"fantasia": "TAPANA",
+"municipio": "BELÉM",
+"uf": "PA",
+"registro": "1997-12-04",
+"reserva": "1997-08-04",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "4669",
+"razao": "MGS FOODS INDUSTRIA E COMERCIO LTDA.",
+"fantasia": "MGS FOODS INDUSTRIA E COMERCIO LTDA.",
+"municipio": "CAMPO GRANDE",
+"uf": "MS",
+"registro": "2015-08-06",
+"reserva": "2001-06-21",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / CP1 - CONSERVA DE PESCADO"
+]
+},
+{
+"sif": "4373",
+"razao": "NATUBRAS PESCADOS LTDA",
+"fantasia": "-",
+"municipio": "BALNEÁRIO PIÇARRAS",
+"uf": "SC",
+"registro": "2015-08-14",
+"reserva": "1998-12-17",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "2744",
+"razao": "INDUSTRIA E COMERCIO DE PESCADO ARAPONGAS LTDA",
+"fantasia": "PESCADO ARAPONGAS",
+"municipio": "ARAPONGAS",
+"uf": "PR",
+"registro": "1994-03-22",
+"reserva": "1984-06-11",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / CP1 - CONSERVA DE PESCADO"
+]
+},
+{
+"sif": "2496",
+"razao": "COPRIMAR COMERCIO DE PESCADOS E FRUTOS DO MAR LTDA",
+"fantasia": "COPRIMAR COMERCIO DE PESCADOS",
+"municipio": "CURUÇÁ",
+"uf": "PA",
+"registro": "2000-07-28",
+"reserva": "2000-02-07",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "1373",
+"razao": "IRMÃOS BRAGA EXPORTADORA LTDA",
+"fantasia": "",
+"municipio": "BELÉM",
+"uf": "PA",
+"registro": "1999-01-13",
+"reserva": "1998-10-05",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "327",
+"razao": "VITALMAR COMERCIO E INDUSTRIA DE PESCADOS LTDA EM RECUPERACAO JUDICIAL",
+"fantasia": "-",
+"municipio": "ITAJAÍ",
+"uf": "SC",
+"registro": "2015-08-13",
+"reserva": "1967-06-06",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / CP1 - CONSERVA DE PESCADO"
+]
+},
+{
+"sif": "3439",
+"razao": "SCP COMERCIO IMPORTACAO E EXPORTACAO DE ALIMENTOS LTDA",
+"fantasia": "",
+"municipio": "BELÉM",
+"uf": "PA",
+"registro": "2015-08-07",
+"reserva": "2002-11-26",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "2996",
+"razao": "VALLE D'ORO AGROINDUSTRIAL LTDA ME",
+"fantasia": "",
+"municipio": "ILHOTA",
+"uf": "SC",
+"registro": "2015-08-13",
+"reserva": "2003-08-06",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "4404",
+"razao": "M. S. LUZITANIA TRANSPORTES, EXPORTAÇÃO E IMPORTAÇÃO DE PESCADOS E FRUTOS DO MAR LTDA - ME",
+"fantasia": "",
+"municipio": "NAVEGANTES",
+"uf": "SC",
+"registro": "2015-08-14",
+"reserva": "2004-08-25",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "4583",
+"razao": "GILVAN DE P. SILVA - EIRELI",
+"fantasia": "G PESCA",
+"municipio": "BRAGANÇA",
+"uf": "PA",
+"registro": "2010-04-06",
+"reserva": "2006-06-29",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "2707",
+"razao": "COPACOL-COOPERATIVA AGROINDUSTRIAL CONSOLATA",
+"fantasia": "UNIDADE INDUSTRIAL DE PEIXES",
+"municipio": "NOVA AURORA",
+"uf": "PR",
+"registro": "2008-12-19",
+"reserva": "2008-06-27",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3355",
+"razao": "RPD CARNES LTDA",
+"fantasia": "GRAN FILE",
+"municipio": "ITABIRA",
+"uf": "MG",
+"registro": "2008-10-14",
+"reserva": "2008-10-14",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "925",
+"razao": "CAMAR CAMARAO MARICULTURA LTDA",
+"fantasia": "",
+"municipio": "JOÃO PESSOA",
+"uf": "PB",
+"registro": "2011-08-23",
+"reserva": "2009-11-24",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "2450",
+"razao": "WEICHI HUANG EIRELI",
+"fantasia": "W & N EXPORTADORA",
+"municipio": "BRAGANÇA",
+"uf": "PA",
+"registro": "2010-08-13",
+"reserva": "2009-11-24",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3301",
+"razao": "M. C. COMERCIO DE PESCADOS LTDA",
+"fantasia": "-",
+"municipio": "VÁRZEA GRANDE",
+"uf": "MT",
+"registro": "2015-09-11",
+"reserva": "2015-09-11",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "2165",
+"razao": "GTM BENEFICIADORA E IMPORTADORA LTDA.",
+"fantasia": "-",
+"municipio": "SARZEDO",
+"uf": "MG",
+"registro": "2016-08-30",
+"reserva": "2016-08-30",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3255",
+"razao": "MAR E RIO PESCADOS, INDUSTRIA, IMPORTACAO E EXPORTACAO LTDA",
+"fantasia": "MAR & RIO PESCADOS",
+"municipio": "SÃO JOSÉ DO RIO PRETO",
+"uf": "SP",
+"registro": "2017-02-16",
+"reserva": "2017-02-16",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "5291",
+"razao": "COOPERATIVA JURITI",
+"fantasia": "COOPERATIVA JURITI",
+"municipio": "MASSARANDUBA",
+"uf": "SC",
+"registro": "2022-04-27",
+"reserva": "2022-04-27",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "5382",
+"razao": "FISH WEY IND EIRELI",
+"fantasia": "FISH WAY",
+"municipio": "OIAPOQUE",
+"uf": "AP",
+"registro": "2022-11-08",
+"reserva": "2022-11-08",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "1768",
+"razao": "CONDESSA IMPORTACAO EXPORTACAO LTDA.",
+"fantasia": "CONDESSA",
+"municipio": "CAMOCIM",
+"uf": "CE",
+"registro": "1997-06-24",
+"reserva": "1975-08-13",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "1246",
+"razao": "FRIGORIFICO JAHU LTDA",
+"fantasia": "-",
+"municipio": "DUQUE DE CAXIAS",
+"uf": "RJ",
+"registro": "2015-08-10",
+"reserva": "1977-08-17",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / CP1 - CONSERVA DE PESCADO"
+]
+},
+{
+"sif": "3352",
+"razao": "RICARDO AUGUSTO AZEVEDO BRESCIANE LTDA",
+"fantasia": "COSTA AZUL PESCADOS",
+"municipio": "NOVA VIÇOSA",
+"uf": "BA",
+"registro": "2015-07-30",
+"reserva": "1989-05-18",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3872",
+"razao": "CASTRO INDUSTRIA E COMERCIO DE PESCADOS LTDA",
+"fantasia": "-",
+"municipio": "ANGRA DOS REIS",
+"uf": "RJ",
+"registro": "1997-04-01",
+"reserva": "1994-11-08",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "1681",
+"razao": "MIAMI COMÉRCIO E EXPORTAÇÃO DE PESCADOS LTDA",
+"fantasia": "",
+"municipio": "CANANÉIA",
+"uf": "SP",
+"registro": "2015-08-14",
+"reserva": "1977-12-07",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "2592",
+"razao": "TRUTAS NR INDUSTRIA E COMERCIO LTDA",
+"fantasia": "FILE DE TRUTA NR",
+"municipio": "SAPUCAÍ-MIRIM",
+"uf": "MG",
+"registro": "1997-12-11",
+"reserva": "1997-07-30",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "2256",
+"razao": "PESCADOS FISH LTDA",
+"fantasia": "PESCADOS FISH",
+"municipio": "NATAL",
+"uf": "RN",
+"registro": "2000-08-04",
+"reserva": "2000-08-04",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS",
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / MSD - MIGRADO - SDA DIGITAL"
+]
+},
+{
+"sif": "1224",
+"razao": "AMIPESCA PESCADOS LTDA",
+"fantasia": "AMIPESCA",
+"municipio": "GOVERNADOR CELSO RAMOS",
+"uf": "SC",
+"registro": "1970-04-27",
+"reserva": "1970-04-27",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "945",
+"razao": "FRIGORIFICO RIOMAR LTDA",
+"fantasia": "FRIGORIFICO RIO MAR LTDA",
+"municipio": "ITACOATIARA",
+"uf": "AM",
+"registro": "1979-10-11",
+"reserva": "1973-08-02",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "394",
+"razao": "DAMM PRODUTOS ALIMENTICIOS LTDA",
+"fantasia": "",
+"municipio": "CACHOEIRAS DE MACACU",
+"uf": "RJ",
+"registro": "1963-02-15",
+"reserva": "2002-05-17",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "1283",
+"razao": "JOSETE LESSA MACHADO VALGAS",
+"fantasia": "JM. CAMAROES",
+"municipio": "ILHÉUS",
+"uf": "BA",
+"registro": "2012-12-20",
+"reserva": "2008-10-01",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "2993",
+"razao": "SMG INDUSTRIAL LTDA",
+"fantasia": "-",
+"municipio": "NAVEGANTES",
+"uf": "SC",
+"registro": "2015-08-13",
+"reserva": "2009-01-13",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / CP1 - CONSERVA DE PESCADO"
+]
+},
+{
+"sif": "403",
+"razao": "GRUPO GENNIUS BRASIL PRODUCAO E COMERCIALIZACAO DE ALIMENTOS S.A",
+"fantasia": "-",
+"municipio": "ITAPEVI",
+"uf": "SP",
+"registro": "2019-07-31",
+"reserva": "2010-12-27",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / FPS1 - FÁBRICA DE PESCADOS"
+]
+},
+{
+"sif": "188",
+"razao": "GATE FISH BRAZIL LTDA",
+"fantasia": "-",
+"municipio": "SÃO ROQUE",
+"uf": "SP",
+"registro": "2015-08-14",
+"reserva": "2012-06-26",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3273",
+"razao": "DELICIOUS FISH AGROINDUSTRIA E COMERCIO DE PESCADOS LTDA",
+"fantasia": "DELICIOUS FISH",
+"municipio": "SORRISO",
+"uf": "MT",
+"registro": "2015-08-07",
+"reserva": "2014-06-09",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3443",
+"razao": "OPERGEL COMERCIAL E INDUSTRIAL DE PRODUTOS ALIMENTICIOS LTDA",
+"fantasia": "OPERGEL COML E IMPORT.",
+"municipio": "CAMBORIÚ",
+"uf": "SC",
+"registro": "2016-11-09",
+"reserva": "2016-11-09",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3447",
+"razao": "LEAL & SILVA INDUSTRIA E COMERCIO DE PESCADOS LTDA",
+"fantasia": "QUINTA DO MAR",
+"municipio": "PENHA",
+"uf": "SC",
+"registro": "2017-02-06",
+"reserva": "2017-02-06",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "1515",
+"razao": "CAIMASUL - CAIMANS DO SUL DO PANTANAL IMPORTACAO E EXPORTACAO LTDA",
+"fantasia": "",
+"municipio": "CORUMBÁ",
+"uf": "MS",
+"registro": "2017-07-27",
+"reserva": "2017-07-27",
+"classes": [
+"ABATEDOURO FRIGORÍFICO DE PESCADO - P05 / AP1 - ABATEDOURO FRIGORÍFICO DE PESCADO"
+]
+},
+{
+"sif": "1729",
+"razao": "BEM BOM PESCADOS LTDA",
+"fantasia": "BEM BOM PESCADOS",
+"municipio": "GOIANÉSIA",
+"uf": "GO",
+"registro": "2018-01-31",
+"reserva": "2018-01-31",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "708",
+"razao": "LP COMERCIO LTDA",
+"fantasia": "-",
+"municipio": "PIRANHAS",
+"uf": "AL",
+"registro": "2019-03-15",
+"reserva": "2019-03-15",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / FPS1 - FÁBRICA DE PESCADOS"
+]
+},
+{
+"sif": "3779",
+"razao": "BAITA FRIO ALIMENTOS E ARMAZEM LTDA",
+"fantasia": "BAITA BRASIL",
+"municipio": "SÃO PAULO",
+"uf": "SP",
+"registro": "2020-05-15",
+"reserva": "2020-05-15",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "5168",
+"razao": "PRIME SEAFOOD LTDA",
+"fantasia": "-",
+"municipio": "ALCOBAÇA",
+"uf": "BA",
+"registro": "2021-07-30",
+"reserva": "2021-07-29",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "5364",
+"razao": "ONE ALIMENTOS DO BRASIL LTDA",
+"fantasia": "-",
+"municipio": "RIO CLARO",
+"uf": "SP",
+"registro": "2022-09-30",
+"reserva": "2022-09-30",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "5713",
+"razao": "LAGUNA SUL IMPORTACAO E EXPORTACAO LTDA",
+"fantasia": "LAGUNA SUL PESCADOS",
+"municipio": "SÃO JOSÉ DO NORTE",
+"uf": "RS",
+"registro": "2026-09-21",
+"reserva": "2026-09-21",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "2077",
+"razao": "MAR DE PEIXE PESCADOS LTDA",
+"fantasia": "MARPEX PESCADOS",
+"municipio": "BALNEÁRIO PIÇARRAS",
+"uf": "SC",
+"registro": "2013-03-04",
+"reserva": "1990-03-26",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3028",
+"razao": "RIO BRANCO ALIMENTOS S/A",
+"fantasia": "PIF PAF",
+"municipio": "VIÇOSA",
+"uf": "MG",
+"registro": "1998-04-30",
+"reserva": "1987-02-03",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "1296",
+"razao": "L.G.M INDUSTRIA E SERVICOS LTDA",
+"fantasia": "LGM ASSESSORIA",
+"municipio": "SÃO PAULO",
+"uf": "SP",
+"registro": "2015-08-14",
+"reserva": "1974-12-30",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3467",
+"razao": "PESCADOS ESTRELA DO MAR COMERCIO E LOGISTICA LTDA",
+"fantasia": "PEROLA DO MAR PESCADOS",
+"municipio": "PIÚMA",
+"uf": "ES",
+"registro": "2015-07-31",
+"reserva": "2005-08-04",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "2674",
+"razao": "PESQUEIRA LOIOLA LTDA",
+"fantasia": "PESQUEIRA LOIOLA",
+"municipio": "ACARAÚ",
+"uf": "CE",
+"registro": "2012-10-15",
+"reserva": "2005-08-04",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "480",
+"razao": "PSC PESCADOS LTDA",
+"fantasia": "MAR DI ANITA PESCADOS",
+"municipio": "LAGUNA",
+"uf": "SC",
+"registro": "2012-07-24",
+"reserva": "2005-10-06",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / CP1 - CONSERVA DE PESCADO"
+]
+},
+{
+"sif": "3648",
+"razao": "PEIXES MEGG'S PESCADOS LTDA",
+"fantasia": "",
+"municipio": "SÃO JOÃO DA BOA VISTA",
+"uf": "SP",
+"registro": "2015-08-14",
+"reserva": "2005-12-27",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "4591",
+"razao": "SAUDE RIO E MAR COMERCIO DE ALIMENTOS LTDA.",
+"fantasia": "ARIGATO",
+"municipio": "BRASÍLIA",
+"uf": "DF",
+"registro": "2015-07-31",
+"reserva": "2006-02-24",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3907",
+"razao": "ZALTANA INDUSTRIA E COMERCIO DE ALIMENTOS S/A",
+"fantasia": "ZALTANA PESCADOS",
+"municipio": "ARIQUEMES",
+"uf": "RO",
+"registro": "2015-08-12",
+"reserva": "2007-03-28",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3306",
+"razao": "AMAZONIA COMERCIO DE PRODUTOS ALIMENTICIOS LTDA",
+"fantasia": "PEIXE DA AMAZONIA",
+"municipio": "ÓBIDOS",
+"uf": "PA",
+"registro": "2015-08-07",
+"reserva": "2007-12-12",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "2009",
+"razao": "PLANALTO COMERCIO, IMPORTACAO E EXPORTACAO LTDA.",
+"fantasia": "PLANALTO FISH",
+"municipio": "CARAPICUÍBA",
+"uf": "SP",
+"registro": "2013-10-31",
+"reserva": "2009-03-20",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "931",
+"razao": "FISHES BRAZIL INDUSTRIA DE PESCADOS LTDA EM RECUPERACAO JUDICIAL",
+"fantasia": "FISHES BRAZIL",
+"municipio": "PIÚMA",
+"uf": "ES",
+"registro": "2015-07-31",
+"reserva": "2009-06-04",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / CP1 - CONSERVA DE PESCADO"
+]
+},
+{
+"sif": "726",
+"razao": "SANTA LUCIA COMERCIO DE PRODUTOS ALIMENTICIOS LTDA",
+"fantasia": "CARAVELLAS FRUTOS DO MAR",
+"municipio": "BRASÍLIA",
+"uf": "DF",
+"registro": "2015-07-31",
+"reserva": "2010-07-15",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "2042",
+"razao": "NATTER INDUSTRIA E COMERCIO DE PEIXES LTDA",
+"fantasia": "SACIATTA",
+"municipio": "CAMPO VERDE",
+"uf": "MT",
+"registro": "2013-02-27",
+"reserva": "2013-02-27",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS",
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / MSD - MIGRADO - SDA DIGITAL"
+]
+},
+{
+"sif": "3789",
+"razao": "GONCALVES & TORTOLA S/A",
+"fantasia": "GT FOODS - FISH",
+"municipio": "MANDAGUAÇU",
+"uf": "PR",
+"registro": "2015-08-08",
+"reserva": "2013-11-28",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS",
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / MSD - MIGRADO - SDA DIGITAL"
+]
+},
+{
+"sif": "2287",
+"razao": "S M PESCADOS LTDA",
+"fantasia": "S M PESCADOS",
+"municipio": "RIO GRANDE",
+"uf": "RS",
+"registro": "2019-04-11",
+"reserva": "2019-04-11",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "2715",
+"razao": "PESCANORTE FRIGORIFICO LTDA.",
+"fantasia": "PESCANORTE",
+"municipio": "SANTARÉM",
+"uf": "PA",
+"registro": "2019-07-24",
+"reserva": "2019-07-24",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS",
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / MSD - MIGRADO - SDA DIGITAL"
+]
+},
+{
+"sif": "5179",
+"razao": "TILABRAS AQUACULTURA LTDA.",
+"fantasia": "-",
+"municipio": "BURITAMA",
+"uf": "SP",
+"registro": "2021-09-15",
+"reserva": "2021-09-14",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS",
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / MSD - MIGRADO - SDA DIGITAL"
+]
+},
+{
+"sif": "5416",
+"razao": "COOPERMOTA COOPERATIVA AGROINDUSTRIAL",
+"fantasia": "-",
+"municipio": "CORNÉLIO PROCÓPIO",
+"uf": "PR",
+"registro": "2023-02-06",
+"reserva": "2023-02-06",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "7456",
+"razao": "CAXAMAR BRASIL IMPORTACAO E EXPORTACAO LTDA",
+"fantasia": "-",
+"municipio": "BARUERI",
+"uf": "SP",
+"registro": "2026-08-06",
+"reserva": "",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / MSD - MIGRADO - SDA DIGITAL"
+]
+},
+{
+"sif": "282",
+"razao": "BRASIL SUL INDUSTRIA, COMERCIO E TRANSPORTES DE PESCADOS LTDA EM RECUPERACAO JUDICIAL",
+"fantasia": "-",
+"municipio": "ITAJAÍ",
+"uf": "SC",
+"registro": "1969-04-09",
+"reserva": "1969-04-09",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "2103",
+"razao": "NF INDUSTRIA DE PESCADO S.A",
+"fantasia": "O PESCADOR",
+"municipio": "QUISSAMÃ",
+"uf": "RJ",
+"registro": "1997-12-10",
+"reserva": "1995-11-08",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3806",
+"razao": "ORIENTAL IMPORTACAO E EXPORTACAO LTDA",
+"fantasia": "ORIMEX",
+"municipio": "BELÉM",
+"uf": "PA",
+"registro": "1997-09-08",
+"reserva": "1994-07-05",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "369",
+"razao": "DAMM PRODUTOS ALIMENTICIOS LTDA",
+"fantasia": "-",
+"municipio": "OSASCO",
+"uf": "SP",
+"registro": "2015-08-14",
+"reserva": "1982-05-21",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / CP1 - CONSERVA DE PESCADO"
+]
+},
+{
+"sif": "2229",
+"razao": "EDIFRIGO COMERCIAL E INDUSTRIAL LTDA",
+"fantasia": "EDIFRIGO",
+"municipio": "SANTARÉM",
+"uf": "PA",
+"registro": "1983-03-22",
+"reserva": "1981-08-12",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "2061",
+"razao": "MOLUSKUS - FAZENDA MARINHA LTDA",
+"fantasia": "",
+"municipio": "PALHOÇA",
+"uf": "SC",
+"registro": "2015-08-13",
+"reserva": "1995-10-19",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "1539",
+"razao": "DAVID GREGORIO NETO LTDA",
+"fantasia": "-",
+"municipio": "ITAJAÍ",
+"uf": "SC",
+"registro": "2011-03-01",
+"reserva": "1975-01-31",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "839",
+"razao": "MARSILVA - IMPORTADORA E EXPORTADORA DE PESCADOS LTDA",
+"fantasia": "",
+"municipio": "RIO GRANDE",
+"uf": "RS",
+"registro": "2015-08-12",
+"reserva": "1977-06-14",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / CP1 - CONSERVA DE PESCADO"
+]
+},
+{
+"sif": "1178",
+"razao": "FAZENDA MARINHA OSTRAVAGANTE LTDA",
+"fantasia": "",
+"municipio": "FLORIANÓPOLIS",
+"uf": "SC",
+"registro": "1973-03-13",
+"reserva": "2002-06-05",
+"classes": [
+"ESTAÇÃO DEPURADORA DE MOLUSCO BIVALVE - P06 / ED1 - ESTAÇÃO DEPURADORA DE MOLUSCO BIVALVE"
+]
+},
+{
+"sif": "1240",
+"razao": "PESCAL INDÚSTRIA E COMÉRCIO DE ALIMENTOS LTDA",
+"fantasia": "PESCAL",
+"municipio": "RIO GRANDE",
+"uf": "RS",
+"registro": "2015-08-12",
+"reserva": "2009-05-06",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "1607",
+"razao": "BRASFISH INDUSTRIA E COMERCIO DE ALIMENTOS LTDA",
+"fantasia": "BRAZILIAN FISH",
+"municipio": "SANTA FÉ DO SUL",
+"uf": "SP",
+"registro": "2015-08-14",
+"reserva": "2009-07-29",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "662",
+"razao": "''BRUMAR COMERCIAL E IMPORTADORA DE ALIMENTOS LTDA.''",
+"fantasia": "-",
+"municipio": "BARUERI",
+"uf": "SP",
+"registro": "2015-08-14",
+"reserva": "2010-03-31",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / FPS1 - FÁBRICA DE PESCADOS"
+]
+},
+{
+"sif": "3765",
+"razao": "BOM PEIXE INDUSTRIA E COMERCIO LTDA",
+"fantasia": "-",
+"municipio": "PIRACICABA",
+"uf": "SP",
+"registro": "2015-08-15",
+"reserva": "2010-12-16",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "4181",
+"razao": "GOLD FISH INDUSTRIA E COMERCIO DE PEIXES LTDA",
+"fantasia": "",
+"municipio": "ITAPORÃ",
+"uf": "MS",
+"registro": "2016-03-17",
+"reserva": "2016-03-17",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "4179",
+"razao": "FRIGORIFICO SERRA DO PEIXE LTDA",
+"fantasia": "FRIGORIFICO SERRA DO PEIXE",
+"municipio": "MORADA NOVA DE MINAS",
+"uf": "MG",
+"registro": "2016-03-31",
+"reserva": "2016-03-31",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "2682",
+"razao": "MOROTA PESCADOS LTDA.",
+"fantasia": "-",
+"municipio": "SÃO PAULO",
+"uf": "SP",
+"registro": "2019-06-12",
+"reserva": "2019-06-12",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / FPS1 - FÁBRICA DE PESCADOS"
+]
+},
+{
+"sif": "179",
+"razao": "OPERGEL COMERCIAL E INDUSTRIAL DE PRODUTOS ALIMENTICIOS LTDA",
+"fantasia": "-",
+"municipio": "LOUVEIRA",
+"uf": "SP",
+"registro": "2019-09-17",
+"reserva": "2019-09-17",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "5352",
+"razao": "COSTA COMERCIO IMPORTACAO E EXPORTACAO DE PRODUTOS ALIMENTICIOS LTDA",
+"fantasia": "-",
+"municipio": "SÃO CAETANO DO SUL",
+"uf": "SP",
+"registro": "2022-08-27",
+"reserva": "2022-08-27",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "4162",
+"razao": "CAMANOR PRODUTOS MARINHOS S/A",
+"fantasia": "CAMANOR",
+"municipio": "CANGUARETAMA",
+"uf": "RN",
+"registro": "2019-07-29",
+"reserva": "1997-10-30",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "4024",
+"razao": "FAIF'S MARICULTURA LTDA",
+"fantasia": "O CAMARAO DOS CHEFS",
+"municipio": "PARNAMIRIM",
+"uf": "RN",
+"registro": "2003-01-13",
+"reserva": "1996-10-02",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3857",
+"razao": "BOM PEIXE INDUSTRIA E COMERCIO LTDA",
+"fantasia": "BOM PEIXE",
+"municipio": "PIRACICABA",
+"uf": "SP",
+"registro": "2010-09-20",
+"reserva": "1994-10-25",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3640",
+"razao": "BIO PESCADOS DA AMAZONIA LTDA",
+"fantasia": "BIO PESCADO DA AMAZONIA",
+"municipio": "IRANDUBA",
+"uf": "AM",
+"registro": "2009-09-03",
+"reserva": "1993-08-24",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "495",
+"razao": "J L CUNHA & CIA LTDA",
+"fantasia": "-",
+"municipio": "SÃO LOURENÇO DO SUL",
+"uf": "RS",
+"registro": "2015-08-12",
+"reserva": "1974-05-06",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3638",
+"razao": "FRIGORIFÍCIO SÃO FRANCISCO LTDA - FRISAL",
+"fantasia": "",
+"municipio": "SALVATERRA",
+"uf": "PA",
+"registro": "2015-08-07",
+"reserva": "2002-12-02",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "1072",
+"razao": "INDUSTRIA DE BENEFICIAMENTO DE PESCADOS MARENOSTRA LTDA",
+"fantasia": "MARENOSTRA",
+"municipio": "CORURIPE",
+"uf": "AL",
+"registro": "2015-07-08",
+"reserva": "2003-09-04",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3010",
+"razao": "ITAJAI SUL - INDUSTRIA E COMERCIO DE PESCADO E TRANSPORTE LTDA",
+"fantasia": "ITAJAI SUL INDUSTRIA E COMERCIO DE PESCADO E TRANS",
+"municipio": "ITAJAÍ",
+"uf": "SC",
+"registro": "2015-08-13",
+"reserva": "2003-09-15",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "4073",
+"razao": "NEW FISH COMERCIO DE PESCADOS LTDA",
+"fantasia": "NEW FISH",
+"municipio": "SÃO PAULO",
+"uf": "SP",
+"registro": "2015-08-15",
+"reserva": "2004-12-17",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "2902",
+"razao": "PONTUAL INDUSTRIA COMERCIO LTDA",
+"fantasia": "OMEGA FISH",
+"municipio": "MUNDO NOVO",
+"uf": "MS",
+"registro": "2015-08-06",
+"reserva": "2005-10-10",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "2125",
+"razao": "COMERCIO E INDUSTRIA DE PESCADOS CARATINGA LTDA",
+"fantasia": "NATUPEIXE",
+"municipio": "UBAPORANGA",
+"uf": "MG",
+"registro": "2015-08-05",
+"reserva": "2006-03-13",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "442",
+"razao": "FRIGOPEIXE INDUSTRIA E COMERCIO DE PESCADO LTDA",
+"fantasia": "FRIGORIFICO FRIGOPEIXE DA AMAZONIA",
+"municipio": "TEFÉ",
+"uf": "AM",
+"registro": "2009-09-03",
+"reserva": "2006-07-26",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3924",
+"razao": "ALA PESCADOS EIRELI - EPP",
+"fantasia": "",
+"municipio": "LINHARES",
+"uf": "ES",
+"registro": "2015-07-31",
+"reserva": "2007-03-28",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "795",
+"razao": "COOPERATIVA DOS PISCICULTORES DO ALTO E MÉDIO SÃO FRANCISCO LTDA - COOPEIXE",
+"fantasia": "",
+"municipio": "MORADA NOVA DE MINAS",
+"uf": "MG",
+"registro": "2015-08-05",
+"reserva": "2010-06-29",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "212",
+"razao": "CASA MARE COMERCIO DE PRODUTOS ALIMENTICIO LTDA",
+"fantasia": "-",
+"municipio": "COTIA",
+"uf": "SP",
+"registro": "2015-08-14",
+"reserva": "2010-07-29",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "1324",
+"razao": "FRIOCENTER PESCADOS INDUSTRIA E COMERCIO, IMPORTACAO E EXPORTACAO LTDA - EM RECUPERACAO JUDICIAL",
+"fantasia": "FRIOCENTER PESCADOS",
+"municipio": "APARECIDA DE GOIÂNIA",
+"uf": "GO",
+"registro": "2015-07-31",
+"reserva": "2011-04-20",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "836",
+"razao": "KDN INDUSTRIA E COMERCIO DE PESCADOS LTDA",
+"fantasia": "-",
+"municipio": "PORTO BELO",
+"uf": "SC",
+"registro": "2015-08-13",
+"reserva": "2011-10-18",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS",
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / MSD - MIGRADO - SDA DIGITAL"
+]
+},
+{
+"sif": "616",
+"razao": "AMC INDUSTRIA E COMERCIO DE ALIMENTOS LTDA",
+"fantasia": "",
+"municipio": "GARUVA",
+"uf": "SC",
+"registro": "2015-08-13",
+"reserva": "2012-07-24",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / CP1 - CONSERVA DE PESCADO"
+]
+},
+{
+"sif": "4358",
+"razao": "BLUE OCEAN LTDA",
+"fantasia": "BLUE OCEAN",
+"municipio": "JAGUARUNA",
+"uf": "SC",
+"registro": "2015-08-14",
+"reserva": "2013-09-10",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "4112",
+"razao": "MAR & SUL INDUSTRIA E COMERCIO DE PESCADOS LTDA",
+"fantasia": "-",
+"municipio": "NAVEGANTES",
+"uf": "SC",
+"registro": "2016-03-23",
+"reserva": "2016-03-23",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3699",
+"razao": "CELLIER ALIMENTOS DO BRASIL LTDA",
+"fantasia": "",
+"municipio": "ELIAS FAUSTO",
+"uf": "SP",
+"registro": "2016-12-09",
+"reserva": "2016-12-09",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / CP1 - CONSERVA DE PESCADO"
+]
+},
+{
+"sif": "3227",
+"razao": "BEM BOM PESCADOS LTDA",
+"fantasia": "-",
+"municipio": "BRASÍLIA",
+"uf": "DF",
+"registro": "2018-02-20",
+"reserva": "2018-02-20",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "3710",
+"razao": "INDÚSTRIA DE PESCADO E ARMAZENAGEM CABO FRIO LTDA",
+"fantasia": "CABO FRIO PESCADOS",
+"municipio": "CABO FRIO",
+"uf": "RJ",
+"registro": "2020-04-20",
+"reserva": "2020-04-20",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "5144",
+"razao": "Z SHEN COMERCIO DE PESCADOS EIRELI",
+"fantasia": "ALSM",
+"municipio": "VIGIA",
+"uf": "PA",
+"registro": "2021-05-03",
+"reserva": "2021-05-03",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / FPS1 - FÁBRICA DE PESCADOS"
+]
+},
+{
+"sif": "5696",
+"razao": "COOPERSUL COOPERATIVA DA AGRICULTURA FAMILIAR DA REGIAO NOROESTE DO PARANA",
+"fantasia": "COOPERSUL COOPERATIVA",
+"municipio": "CRUZEIRO DO SUL",
+"uf": "PR",
+"registro": "2025-07-17",
+"reserva": "2025-07-17",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / EP2 - ENTREPOSTO DE PESCADOS"
+]
+},
+{
+"sif": "7450",
+"razao": "COPACOL-COOPERATIVA AGROINDUSTRIAL CONSOLATA",
+"fantasia": "UNIDADE INDUSTRIAL DE PEIXES TOLEDO",
+"municipio": "TOLEDO",
+"uf": "PR",
+"registro": "2026-07-15",
+"reserva": "",
+"classes": [
+"UNIDADE DE BENEF. DE PESCADO E PROD. DE PESCADO - P07 / MSD - MIGRADO - SDA DIGITAL"
+]
+}
+]

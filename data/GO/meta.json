@@ -1,0 +1,125 @@
+{
+ "uf": "GO",
+ "ano_final": 2025,
+ "anos": [
+  2015,
+  2016,
+  2017,
+  2018,
+  2019,
+  2020,
+  2021,
+  2022,
+  2023,
+  2024,
+  2025
+ ],
+ "gerado_em": "2026-11-24",
+ "n_municipios": 246,
+ "n_nos": 255,
+ "pct_pares_osrm": 100.0,
+ "n_sif": 15,
+ "n_sie": 31,
+ "nos_externos": [
+  {
+   "cod": "1700350",
+   "nome": "Aliança do Tocantins",
+   "uf": "TO",
+   "lat": -11.3056,
+   "lon": -48.9361
+  },
+  {
+   "cod": "3143500",
+   "nome": "Morada Nova de Minas",
+   "uf": "MG",
+   "lat": -18.5998,
+   "lon": -45.3584
+  },
+  {
+   "cod": "3508108",
+   "nome": "Buritama",
+   "uf": "SP",
+   "lat": -21.0661,
+   "lon": -50.1475
+  },
+  {
+   "cod": "3521150",
+   "nome": "Ipiguá",
+   "uf": "SP",
+   "lat": -20.6557,
+   "lon": -49.3842
+  },
+  {
+   "cod": "3543600",
+   "nome": "Rifaina",
+   "uf": "SP",
+   "lat": -20.0803,
+   "lon": -47.4291
+  },
+  {
+   "cod": "3546603",
+   "nome": "Santa Fé do Sul",
+   "uf": "SP",
+   "lat": -20.2083,
+   "lon": -50.932
+  },
+  {
+   "cod": "3549805",
+   "nome": "São José do Rio Preto",
+   "uf": "SP",
+   "lat": -20.8113,
+   "lon": -49.3758
+  },
+  {
+   "cod": "5001003",
+   "nome": "Aparecida do Taboado",
+   "uf": "MS",
+   "lat": -20.0873,
+   "lon": -51.0961
+  },
+  {
+   "cod": "5300108",
+   "nome": "Brasília",
+   "uf": "DF",
+   "lat": -15.7795,
+   "lon": -47.9297
+  }
+ ],
+ "fontes": [
+  {
+   "dado": "Produção de peixe criado por município, 2015–2025",
+   "fonte": "IBGE, Pesquisa da Pecuária Municipal (tabela 3940)",
+   "url": "https://sidra.ibge.gov.br/tabela/3940"
+  },
+  {
+   "dado": "Estabelecimentos de pescado com SIF ativo",
+   "fonte": "MAPA, SIGSIF (dados abertos), consulta em 24/11/2026",
+   "url": "https://dados.agricultura.gov.br/dataset/062166e3-b515-4274-8e7d-68aadd64b820"
+  },
+  {
+   "dado": "Estabelecimentos de pescado com SIE",
+   "fonte": "Agrodefesa, consulta pública (LAI), em 23/11/2026",
+   "url": "https://sidago.agrodefesa.go.gov.br/site/adicionaisproprios/consultaslai/consultasie.php"
+  },
+  {
+   "dado": "Tempos de viagem entre sedes municipais",
+   "fonte": "OSRM sobre o OpenStreetMap, calculado em 22/11/2026",
+   "url": "https://project-osrm.org"
+  },
+  {
+   "dado": "Malha municipal",
+   "fonte": "geodata-br, a partir do IBGE",
+   "url": "https://github.com/tbrugz/geodata-br"
+  },
+  {
+   "dado": "Coordenadas das sedes",
+   "fonte": "kelvins/municipios-brasileiros",
+   "url": "https://github.com/kelvins/municipios-brasileiros"
+  },
+  {
+   "dado": "Cessões em águas da União",
+   "fonte": "MPA, tabulação da equipe do projeto Rota do Pescado",
+   "url": ""
+  }
+ ]
+}

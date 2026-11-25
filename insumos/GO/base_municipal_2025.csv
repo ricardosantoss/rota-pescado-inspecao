@@ -1,0 +1,247 @@
+﻿cod_mun,municipio,regiao_imediata,regiao_intermediaria,reservatorio,cessoes,latitude,longitude,area_km2,producao_t,producao_t_inicio,valor_mil_reais,participacao_tilapia,pescadores_registrados,sif_pescado,tempo_sif_h,km_sif,sif_mais_proximo,sif_fora_do_estado,metodo_rota,faixa
+5200050,Abadia de Goiás,Goiânia,Goiânia,,0,-16.7573,-49.4412,143.77873842054055,0.0,0.0,0.0,0.0,2,0,0.5393666666666665,30.402900000000002,Aparecida de Goiânia (GO),False,estrada_osrm,até 1 h
+5200100,Abadiânia,Anápolis,Goiânia,,0,-16.197,-48.7057,1047.2403365805487,23.0,83.38,357.0,1.0,0,0,1.2304,68.6838,Gameleira de Goiás (GO),False,estrada_osrm,1 a 2 h
+5200134,Acreúna,Palmeiras de Goiás,São Luís de Montes Belos - Iporá,,0,-17.396,-50.3749,1566.0254052375153,0.0,0.0,0.0,0.0,4,0,2.3598,153.728,Aparecida de Goiânia (GO),False,estrada_osrm,2 a 3 h
+5200159,Adelândia,Inhumas - Itaberaí - Anicuns,Goiânia,,0,-16.4127,-50.1657,114.18216227192055,0.0,38.9,0.0,0.0,0,0,2.4029666666666665,125.106,Aparecida de Goiânia (GO),False,estrada_osrm,2 a 3 h
+5200175,Água Fria de Goiás,Flores de Goiás,Luziânia - Águas Lindas de Goiás,,0,-14.9778,-47.7823,2024.0025217062077,495.9,372.5,4696.0,0.9477717281710022,0,0,2.7497,141.80679999999998,Brasília (DF),True,estrada_osrm,2 a 3 h
+5200209,Água Limpa,Caldas Novas-Morrinhos,Itumbiara,,0,-18.0771,-48.7603,461.3006987907496,0.0,9.0,0.0,0.0,0,0,2.8038,176.9616,Aparecida de Goiânia (GO),False,estrada_osrm,2 a 3 h
+5200258,Águas Lindas de Goiás,Águas Lindas de Goiás,Luziânia - Águas Lindas de Goiás,,0,-15.7617,-48.2816,191.29749653443096,0.0,22.5,0.0,0.0,51,0,0.9930666666666664,45.031699999999994,Brasília (DF),True,estrada_osrm,até 1 h
+5200308,Alexânia,Anápolis,Goiânia,,0,-16.0834,-48.5076,847.9594520145392,0.0,27.0,0.0,0.0,4,0,1.5610666666666664,88.24730000000001,Brasília (DF),True,estrada_osrm,1 a 2 h
+5200506,Aloândia,Itumbiara,Itumbiara,,0,-17.7292,-49.4769,102.98910571088686,0.53,0.0,6.0,0.6792452830188679,0,0,2.3007999999999997,137.7248,Aparecida de Goiânia (GO),False,estrada_osrm,2 a 3 h
+5200555,Alto Horizonte,Uruaçu - Niquelândia,Porangatu - Uruaçu,,0,-14.1978,-49.3378,497.9164223718451,0.5,3.6,10.0,0.0,0,0,2.956033333333333,164.8003,Goianésia (GO),False,estrada_osrm,2 a 3 h
+5200605,Alto Paraíso de Goiás,Flores de Goiás,Luziânia - Águas Lindas de Goiás,,0,-14.1305,-47.51,2595.392873824727,33.41,242.0,430.0,0.5447470817120622,1,0,4.3042,222.031,Brasília (DF),True,estrada_osrm,mais de 4 h
+5200803,Alvorada do Norte,Posse-Campos Belos,Luziânia - Águas Lindas de Goiás,,0,-14.4797,-46.491,1269.9549925281722,0.0,0.0,0.0,0.0,1,0,4.207166666666667,253.21970000000002,Brasília (DF),True,estrada_osrm,mais de 4 h
+5200829,Amaralina,Uruaçu - Niquelândia,Porangatu - Uruaçu,,0,-13.9236,-49.2962,1349.056406343012,0.0,5.8,0.0,0.0,0,0,3.606666666666667,196.1474,Goianésia (GO),False,estrada_osrm,3 a 4 h
+5200852,Americano do Brasil,Inhumas - Itaberaí - Anicuns,Goiânia,,0,-16.2514,-49.9831,132.74569192405545,0.0,16.0,0.0,0.0,0,0,2.3543333333333334,125.1786,Aparecida de Goiânia (GO),False,estrada_osrm,2 a 3 h
+5200902,Amorinópolis,Iporá,São Luís de Montes Belos - Iporá,,0,-16.6151,-51.0919,406.25183962709445,0.0,0.0,0.0,0.0,0,0,4.974733333333333,264.7478,Aparecida de Goiânia (GO),False,estrada_osrm,mais de 4 h
+5201108,Anápolis,Anápolis,Goiânia,,0,-16.3281,-48.953,935.5469294045583,0.0,15.0,0.0,0.0,35,0,0.9321999999999999,49.9582,Gameleira de Goiás (GO),False,estrada_osrm,até 1 h
+5201207,Anhanguera,Catalão,Goiânia,,0,-18.3339,-48.2204,54.559476300471715,0.0,0.0,0.0,0.0,9,0,4.4745,246.5418,Aparecida de Goiânia (GO),False,estrada_osrm,mais de 4 h
+5201306,Anicuns,Inhumas - Itaberaí - Anicuns,Goiânia,,0,-16.4642,-49.9617,976.7517304603044,19.0,28.8,232.0,0.0,1,0,1.8999666666666664,100.5318,Aparecida de Goiânia (GO),False,estrada_osrm,1 a 2 h
+5201405,Aparecida de Goiânia,Goiânia,Goiânia,,0,-16.8198,-49.2469,279.4867315526256,0.0,0.0,0.0,0.0,105,1,0.0,0.0,Aparecida de Goiânia (GO),False,mesmo_municipio,até 1 h
+5201454,Aparecida do Rio Doce,Rio Verde,Rio Verde,,0,-18.2941,-51.1516,603.1227980251759,0.0,0.0,0.0,0.0,1,0,3.7766666666666664,248.75379999999998,Aparecida do Taboado (MS),True,estrada_osrm,3 a 4 h
+5201504,Aporé,Jataí-Mineiros,Rio Verde,,0,-18.9607,-51.9232,2899.5744087019607,0.0,0.0,0.0,0.0,5,0,2.8145999999999995,173.2075,Aparecida do Taboado (MS),True,estrada_osrm,2 a 3 h
+5201603,Araçu,Inhumas - Itaberaí - Anicuns,Goiânia,,0,-16.3563,-49.6804,149.40724422692767,0.0,37.5,0.0,0.0,0,0,1.7053333333333331,84.9936,Aparecida de Goiânia (GO),False,estrada_osrm,1 a 2 h
+5201702,Aragarças,Iporá,São Luís de Montes Belos - Iporá,,0,-15.8955,-52.2372,659.7306049804223,0.0,7.5,0.0,0.0,256,0,7.5018,398.7955,Aparecida de Goiânia (GO),False,estrada_osrm,mais de 4 h
+5201801,Aragoiânia,Goiânia,Goiânia,,0,-16.9087,-49.4476,217.54138928780233,7.0,15.0,119.0,0.0,0,0,0.5563333333333332,29.0133,Aparecida de Goiânia (GO),False,estrada_osrm,até 1 h
+5202155,Araguapaz,Goiás - Itapuranga,Goiânia,,0,-15.0909,-50.6315,2187.9568554336197,42.6,50.0,635.0,0.0,62,0,4.2697,223.2175,Goianésia (GO),False,estrada_osrm,mais de 4 h
+5202353,Arenópolis,Iporá,São Luís de Montes Belos - Iporá,,0,-16.3837,-51.5563,1073.738320227392,0.0,283.0,0.0,0.0,0,0,5.848633333333334,303.8211,Aparecida de Goiânia (GO),False,estrada_osrm,mais de 4 h
+5202502,Aruanã,Goiás - Itapuranga,Goiânia,,0,-14.9166,-51.075,3053.0059717899985,6.5,30.0,91.0,0.0,262,0,5.285766666666666,277.37359999999995,Goianésia (GO),False,estrada_osrm,mais de 4 h
+5202601,Aurilândia,São Luís de Montes Belos,São Luís de Montes Belos - Iporá,,0,-16.6773,-50.4641,566.2616155403484,0.0,0.0,0.0,0.0,2,0,3.1493333333333333,165.37210000000002,Aparecida de Goiânia (GO),False,estrada_osrm,3 a 4 h
+5202809,Avelinópolis,Inhumas - Itaberaí - Anicuns,Goiânia,,0,-16.4672,-49.7579,170.291924804659,0.0,2.95,0.0,0.0,0,0,1.7495333333333334,92.3527,Aparecida de Goiânia (GO),False,estrada_osrm,1 a 2 h
+5203104,Baliza,Iporá,São Luís de Montes Belos - Iporá,,0,-16.1966,-52.5393,1779.6602866710075,0.0,4.4,0.0,0.0,5,0,8.466533333333333,431.00359999999995,Aparecida de Goiânia (GO),False,estrada_osrm,mais de 4 h
+5203203,Barro Alto,Ceres - Rialma - Goianésia,Porangatu - Uruaçu,,0,-14.9658,-48.9086,1080.8310072244774,15.0,38.8,245.0,0.3333333333333333,0,0,0.9828666666666666,49.4086,Goianésia (GO),False,estrada_osrm,até 1 h
+5203302,Bela Vista de Goiás,Goiânia,Goiânia,,0,-16.9693,-48.9513,1275.6145404469064,111.13,116.25,1523.0,0.3743363628183209,5,0,0.9528999999999999,59.9363,Aparecida de Goiânia (GO),False,estrada_osrm,até 1 h
+5203401,Bom Jardim de Goiás,Iporá,São Luís de Montes Belos - Iporá,,0,-16.2063,-52.1728,1900.946104729572,40.0,80.5,550.0,0.0,9,0,7.496033333333332,386.9187,Aparecida de Goiânia (GO),False,estrada_osrm,mais de 4 h
+5203500,Bom Jesus de Goiás,Itumbiara,Itumbiara,,0,-18.2173,-49.74,1403.0748989132267,63.8,34.6,653.0,0.6849529780564263,16,0,3.5670333333333333,225.3698,Aparecida de Goiânia (GO),False,estrada_osrm,3 a 4 h
+5203559,Bonfinópolis,Goiânia,Goiânia,,0,-16.6173,-48.9616,122.09884439617086,102.93,454.5,1464.0,0.056348975031574856,1,0,1.0221333333333333,50.8181,Aparecida de Goiânia (GO),False,estrada_osrm,1 a 2 h
+5203575,Bonópolis,Porangatu,Porangatu - Uruaçu,,0,-13.6329,-49.8106,1633.004986131704,0.0,0.0,0.0,0.0,0,0,5.703233333333333,270.11129999999997,Goianésia (GO),False,estrada_osrm,mais de 4 h
+5203609,Brazabrantes,Goiânia,Goiânia,,0,-16.4281,-49.3863,125.19157710049294,0.0,44.95,0.0,0.0,0,0,1.1913666666666667,57.6744,Aparecida de Goiânia (GO),False,estrada_osrm,1 a 2 h
+5203807,Britânia,Goiás - Itapuranga,Goiânia,,0,-15.2428,-51.1602,1463.8656319968034,0.0,0.0,0.0,0.0,15,0,6.069699999999999,320.235,Goianésia (GO),False,estrada_osrm,mais de 4 h
+5203906,Buriti Alegre,Itumbiara,Itumbiara,,0,-18.1378,-49.0404,899.943214616794,249.4,19.9,2680.0,0.9623095429029671,9,0,2.6204666666666667,163.95329999999998,Aparecida de Goiânia (GO),False,estrada_osrm,2 a 3 h
+5203939,Buriti de Goiás,São Luís de Montes Belos,São Luís de Montes Belos - Iporá,,0,-16.1792,-50.4302,203.0165546088167,3.75,0.0,53.0,0.0,0,0,3.1799333333333326,169.4905,Aparecida de Goiânia (GO),False,estrada_osrm,3 a 4 h
+5203962,Buritinópolis,Posse-Campos Belos,Luziânia - Águas Lindas de Goiás,,0,-14.4772,-46.4076,246.45451388362628,0.4,0.0,6.0,0.0,0,0,4.5377,267.2415,Brasília (DF),True,estrada_osrm,mais de 4 h
+5204003,Cabeceiras,Águas Lindas de Goiás,Luziânia - Águas Lindas de Goiás,,0,-15.7995,-46.9265,1127.2963058752573,3.2,0.0,31.0,1.0,1,0,2.546766666666667,136.52110000000002,Brasília (DF),True,estrada_osrm,2 a 3 h
+5204102,Cachoeira Alta,Rio Verde,Rio Verde,,0,-18.7618,-50.9432,1656.2797417072622,0.0,40.7,0.0,0.0,7,0,3.8973333333333335,256.8792,Aparecida do Taboado (MS),True,estrada_osrm,3 a 4 h
+5204201,Cachoeira de Goiás,São Luís de Montes Belos,São Luís de Montes Belos - Iporá,,0,-16.6635,-50.646,424.7125073597934,0.0,0.0,0.0,0.0,1,0,3.9831666666666665,194.9161,Aparecida de Goiânia (GO),False,estrada_osrm,3 a 4 h
+5204250,Cachoeira Dourada,Itumbiara,Itumbiara,,0,-18.4859,-49.4766,527.4453641853631,9.87,10.32,104.0,0.7092198581560284,63,0,3.2272999999999996,218.3991,Aparecida de Goiânia (GO),False,estrada_osrm,3 a 4 h
+5204300,Caçu,Rio Verde,Rio Verde,,0,-18.5594,-51.1328,2253.065702883121,0.0,254.0,0.0,0.0,4,0,3.153033333333333,214.9396,Aparecida do Taboado (MS),True,estrada_osrm,3 a 4 h
+5204409,Caiapônia,Jataí-Mineiros,Rio Verde,,0,-16.9539,-51.8091,8632.615057335866,0.0,0.0,0.0,0.0,1,0,6.562766666666666,351.32820000000004,Aparecida de Goiânia (GO),False,estrada_osrm,mais de 4 h
+5204508,Caldas Novas,Caldas Novas-Morrinhos,Itumbiara,,0,-17.7441,-48.6246,1605.4652973705938,216.25,246.0,3473.0,0.3699421965317919,41,0,2.4191,147.668,Aparecida de Goiânia (GO),False,estrada_osrm,2 a 3 h
+5204557,Caldazinha,Goiânia,Goiânia,,0,-16.7117,-49.0013,252.49134840284157,26.05,22.3,344.0,0.33013435700575816,0,0,0.8654333333333334,42.222199999999994,Aparecida de Goiânia (GO),False,estrada_osrm,até 1 h
+5204607,Campestre de Goiás,Palmeiras de Goiás,São Luís de Montes Belos - Iporá,,0,-16.7624,-49.695,272.4802053288099,0.0,23.3,0.0,0.0,1,0,1.3415,73.0631,Aparecida de Goiânia (GO),False,estrada_osrm,1 a 2 h
+5204656,Campinaçu,Porangatu,Porangatu - Uruaçu,,0,-13.787,-48.5704,1977.3860743338118,0.0,0.0,0.0,0.0,1,0,4.9261333333333335,272.88579999999996,Goianésia (GO),False,estrada_osrm,mais de 4 h
+5204706,Campinorte,Uruaçu - Niquelândia,Porangatu - Uruaçu,,0,-14.3137,-49.1511,1066.3547639279261,5.5,0.0,99.0,0.18181818181818182,10,0,2.3631,134.9231,Goianésia (GO),False,estrada_osrm,2 a 3 h
+5204805,Campo Alegre de Goiás,Catalão,Goiânia,,0,-17.6363,-47.7768,2446.709129453157,0.0,0.0,0.0,0.0,3,0,3.8905666666666665,249.20260000000002,Gameleira de Goiás (GO),False,estrada_osrm,3 a 4 h
+5204854,Campo Limpo de Goiás,Anápolis,Goiânia,,0,-16.2971,-49.0895,154.8718799032662,0.0,7.2,0.0,0.0,1,0,1.2291999999999998,65.77510000000001,Gameleira de Goiás (GO),False,estrada_osrm,1 a 2 h
+5204904,Campos Belos,Posse-Campos Belos,Luziânia - Águas Lindas de Goiás,,0,-13.035,-46.7681,735.2781129777773,0.0,0.0,0.0,0.0,6,0,7.652299999999999,402.613,Brasília (DF),True,estrada_osrm,mais de 4 h
+5204953,Campos Verdes,Ceres - Rialma - Goianésia,Porangatu - Uruaçu,,0,-14.2442,-49.6528,443.97086681025326,10.5,20.0,140.0,0.0,1,0,3.9447999999999994,161.5339,Goianésia (GO),False,estrada_osrm,3 a 4 h
+5205000,Carmo do Rio Verde,Ceres - Rialma - Goianésia,Porangatu - Uruaçu,,0,-15.3549,-49.708,421.1653969147932,9.0,9.72,92.0,0.0,0,0,1.5138333333333334,79.0986,Goianésia (GO),False,estrada_osrm,1 a 2 h
+5205059,Castelândia,Rio Verde,Rio Verde,,0,-18.0921,-50.203,296.29808903085967,0.0,0.0,0.0,0.0,1,0,3.9224,221.47879999999998,Aparecida de Goiânia (GO),False,estrada_osrm,3 a 4 h
+5205109,Catalão,Catalão,Goiânia,,0,-18.1656,-47.944,3828.1015764572203,0.0,22.5,0.0,0.0,28,0,4.056433333333333,231.68929999999997,Gameleira de Goiás (GO),False,estrada_osrm,mais de 4 h
+5205208,Caturaí,Goiânia,Goiânia,,0,-16.4447,-49.4936,205.22761240084375,0.0,19.0,0.0,0.0,0,0,1.2291999999999998,59.408300000000004,Aparecida de Goiânia (GO),False,estrada_osrm,1 a 2 h
+5205307,Cavalcante,Flores de Goiás,Luziânia - Águas Lindas de Goiás,,0,-13.7976,-47.4566,6947.427992369659,175.25,500.0,1770.0,0.7988587731811697,0,0,5.989,308.6567,Brasília (DF),True,estrada_osrm,mais de 4 h
+5205406,Ceres,Ceres - Rialma - Goianésia,Porangatu - Uruaçu,,0,-15.3061,-49.6,213.91305417452392,0.365,0.0,4.0,0.0,4,0,1.2498666666666665,64.2384,Goianésia (GO),False,estrada_osrm,1 a 2 h
+5205455,Cezarina,Palmeiras de Goiás,São Luís de Montes Belos - Iporá,,0,-16.9718,-49.7758,418.2772899238023,0.0,16.0,0.0,0.0,3,0,1.2396666666666667,71.59660000000001,Aparecida de Goiânia (GO),False,estrada_osrm,1 a 2 h
+5205471,Chapadão do Céu,Jataí-Mineiros,Rio Verde,,0,-18.4073,-52.549,2184.0716359996395,0.0,0.0,0.0,0.0,11,0,5.0104999999999995,300.55629999999996,Aparecida do Taboado (MS),True,estrada_osrm,mais de 4 h
+5205497,Cidade Ocidental,Luziânia,Luziânia - Águas Lindas de Goiás,,0,-16.0765,-47.9252,389.5900134907322,0.0,0.0,0.0,0.0,25,0,0.8525333333333333,40.862300000000005,Brasília (DF),True,estrada_osrm,até 1 h
+5205513,Cocalzinho de Goiás,Águas Lindas de Goiás,Luziânia - Águas Lindas de Goiás,,0,-15.7914,-48.7747,1786.9805095818924,2.0,8.0,22.0,1.0,0,0,1.8804666666666665,113.3525,Gameleira de Goiás (GO),False,estrada_osrm,1 a 2 h
+5205521,Colinas do Sul,Uruaçu - Niquelândia,Porangatu - Uruaçu,,0,-14.1528,-48.076,1706.697777471415,545.5,27.0,3978.0,0.9807516040329972,27,0,4.685766666666666,240.6081,Goianésia (GO),False,estrada_osrm,mais de 4 h
+5205703,Córrego do Ouro,São Luís de Montes Belos,São Luís de Montes Belos - Iporá,,0,-16.2918,-50.5503,456.52909235750826,3.0,0.0,42.0,0.0,0,0,3.495566666666667,185.1011,Aparecida de Goiânia (GO),False,estrada_osrm,3 a 4 h
+5205802,Corumbá de Goiás,Anápolis,Goiânia,,0,-15.9245,-48.8117,1061.3596833273832,10.0,10.0,300.0,0.0,2,0,1.6503999999999999,95.7308,Gameleira de Goiás (GO),False,estrada_osrm,1 a 2 h
+5205901,Corumbaíba,Caldas Novas-Morrinhos,Itumbiara,,0,-18.1415,-48.5626,1865.7483665520801,50.0,200.0,455.0,1.0,86,0,3.3426666666666662,198.7004,Aparecida de Goiânia (GO),False,estrada_osrm,3 a 4 h
+5206206,Cristalina,Luziânia,Luziânia - Águas Lindas de Goiás,,0,-16.7676,-47.6131,6153.261649153694,0.0,0.0,0.0,0.0,23,0,2.6730666666666663,130.7653,Brasília (DF),True,estrada_osrm,2 a 3 h
+5206305,Cristianópolis,Piracanjuba,Itumbiara,,0,-17.1987,-48.7034,221.70166905968196,76.38,74.5,1037.0,0.5784236711180938,1,0,1.5294666666666665,101.2885,Aparecida de Goiânia (GO),False,estrada_osrm,1 a 2 h
+5206404,Crixás,Ceres - Rialma - Goianésia,Porangatu - Uruaçu,,0,-14.5412,-49.974,4674.256140916746,300.0,123.0,3900.0,0.0,2,0,4.160533333333333,172.4588,Goianésia (GO),False,estrada_osrm,mais de 4 h
+5206503,Cromínia,Piracanjuba,Itumbiara,,0,-17.2883,-49.3798,365.86801920701794,9.13,6.8,202.0,0.0,0,0,1.0708666666666666,68.6011,Aparecida de Goiânia (GO),False,estrada_osrm,1 a 2 h
+5206602,Cumari,Catalão,Goiânia,,0,-18.2644,-48.1511,568.7590787657201,0.0,0.0,0.0,0.0,0,0,4.3681,248.7872,Gameleira de Goiás (GO),False,estrada_osrm,mais de 4 h
+5206701,Damianópolis,Posse-Campos Belos,Luziânia - Águas Lindas de Goiás,,0,-14.5604,-46.178,417.58835940077336,0.0,0.0,0.0,0.0,0,0,5.7002,323.2552,Brasília (DF),True,estrada_osrm,mais de 4 h
+5206800,Damolândia,Inhumas - Itaberaí - Anicuns,Goiânia,,0,-16.2544,-49.3631,86.19457289577228,0.0,9.0,0.0,0.0,1,0,1.3885666666666665,77.9346,Aparecida de Goiânia (GO),False,estrada_osrm,1 a 2 h
+5206909,Davinópolis,Catalão,Goiânia,,0,-18.1501,-47.5568,484.43554325787704,0.0,0.0,0.0,0.0,32,0,4.9723999999999995,280.2541,Gameleira de Goiás (GO),False,estrada_osrm,mais de 4 h
+5207105,Diorama,Iporá,São Luís de Montes Belos - Iporá,,0,-16.2329,-51.2543,685.3382575602221,0.0,0.0,0.0,0.0,1,0,5.105766666666667,273.7515,Aparecida de Goiânia (GO),False,estrada_osrm,mais de 4 h
+5208301,Divinópolis de Goiás,Posse-Campos Belos,Luziânia - Águas Lindas de Goiás,,0,-13.2853,-46.3999,829.1025923191913,0.0,0.0,0.0,0.0,0,0,7.277833333333333,447.2357,Brasília (DF),True,estrada_osrm,mais de 4 h
+5207253,Doverlândia,Jataí-Mineiros,Rio Verde,,0,-16.7188,-52.3189,3227.950057435306,0.0,0.0,0.0,0.0,1,0,7.921633333333333,415.2472,Aparecida de Goiânia (GO),False,estrada_osrm,mais de 4 h
+5207352,Edealina,Piracanjuba,Itumbiara,,0,-17.4239,-49.6644,594.8998620759191,8.9,10.0,107.0,0.0,0,0,2.2592,141.28179999999998,Aparecida de Goiânia (GO),False,estrada_osrm,2 a 3 h
+5207402,Edéia,Palmeiras de Goiás,São Luís de Montes Belos - Iporá,,0,-17.3406,-49.9295,1469.281823479128,0.0,0.0,0.0,0.0,1,0,2.1022,126.5944,Aparecida de Goiânia (GO),False,estrada_osrm,2 a 3 h
+5207501,Estrela do Norte,Porangatu,Porangatu - Uruaçu,,0,-13.8665,-49.0716,300.9254743854037,8.91,9.626,176.0,0.0,0,0,3.386633333333333,188.6681,Goianésia (GO),False,estrada_osrm,3 a 4 h
+5207535,Faina,Goiás - Itapuranga,Goiânia,,0,-15.4473,-50.3622,1947.6216271474245,6.0,75.0,87.0,0.0,0,0,3.279433333333333,172.05689999999998,Goianésia (GO),False,estrada_osrm,3 a 4 h
+5207600,Fazenda Nova,São Luís de Montes Belos,São Luís de Montes Belos - Iporá,,0,-16.1834,-50.7781,1278.5860613772045,0.0,17.2,0.0,0.0,0,0,4.186466666666666,222.972,Aparecida de Goiânia (GO),False,estrada_osrm,mais de 4 h
+5207808,Firminópolis,Palmeiras de Goiás,São Luís de Montes Belos - Iporá,,0,-16.5778,-50.304,422.0657366673417,0.0,0.0,0.0,0.0,2,0,2.5356,134.9011,Aparecida de Goiânia (GO),False,estrada_osrm,2 a 3 h
+5207907,Flores de Goiás,Flores de Goiás,Luziânia - Águas Lindas de Goiás,,0,-14.4451,-47.0417,3695.6996756596936,12.4,0.0,165.0,0.3870967741935484,4,0,4.4429,234.8255,Brasília (DF),True,estrada_osrm,mais de 4 h
+5208004,Formosa,Águas Lindas de Goiás,Luziânia - Águas Lindas de Goiás,,0,-15.54,-47.337,5800.2082299033655,68.4,64.538,899.0,0.6432748538011696,8,0,1.5680333333333334,77.9911,Brasília (DF),True,estrada_osrm,1 a 2 h
+5208103,Formoso,Porangatu,Porangatu - Uruaçu,,0,-13.6499,-48.8775,842.8032525603077,1.89,2.01,31.0,0.0,1,0,4.027733333333334,223.51229999999998,Goianésia (GO),False,estrada_osrm,mais de 4 h
+5208152,Gameleira de Goiás,Anápolis,Goiânia,,0,-16.4854,-48.6454,588.4214771601149,43.85,39.0,544.0,0.6120866590649943,0,1,0.0,0.0,Gameleira de Goiás (GO),False,mesmo_municipio,até 1 h
+5208400,Goianápolis,Anápolis,Goiânia,,0,-16.5098,-49.0234,167.1652570004289,2.5,4.0,30.0,1.0,3,0,1.0262666666666669,52.0934,Aparecida de Goiânia (GO),False,estrada_osrm,1 a 2 h
+5208509,Goiandira,Catalão,Goiânia,,0,-18.1352,-48.0875,570.3683053351326,0.0,0.0,0.0,0.0,2,0,4.100099999999999,232.16479999999999,Gameleira de Goiás (GO),False,estrada_osrm,mais de 4 h
+5208608,Goianésia,Ceres - Rialma - Goianésia,Porangatu - Uruaçu,,0,-15.3118,-49.1162,1544.033210380261,19.8,29.4,265.0,0.0,9,1,0.0,0.0,Goianésia (GO),False,mesmo_municipio,até 1 h
+5208707,Goiânia,Goiânia,Goiânia,,0,-16.6864,-49.2643,731.1599663956592,0.0,82.0,0.0,0.0,216,0,0.3758,17.8854,Aparecida de Goiânia (GO),False,estrada_osrm,até 1 h
+5208806,Goianira,Goiânia,Goiânia,,0,-16.4947,-49.427,213.9293797720942,0.0,156.57,0.0,0.0,10,0,0.9739,46.2446,Aparecida de Goiânia (GO),False,estrada_osrm,até 1 h
+5208905,Goiás,Goiás - Itapuranga,Goiânia,,0,-15.9333,-50.14,3109.4968838327277,40.5,150.0,564.0,0.2345679012345679,3,0,3.021433333333333,158.0941,Aparecida de Goiânia (GO),False,estrada_osrm,3 a 4 h
+5209101,Goiatuba,Itumbiara,Itumbiara,,0,-18.0105,-49.3658,2481.601557829823,35.23,10.78,360.0,0.709622480840193,16,0,2.292133333333333,158.4182,Aparecida de Goiânia (GO),False,estrada_osrm,2 a 3 h
+5209150,Gouvelândia,Quirinópolis,Rio Verde,,0,-18.6238,-50.0805,825.5757156432413,963.0,1944.5,8282.0,1.0,53,0,5.2385,299.84929999999997,Aparecida de Goiânia (GO),False,estrada_osrm,mais de 4 h
+5209200,Guapó,Goiânia,Goiânia,,0,-16.8297,-49.5345,514.4316523111387,31.0,153.0,372.0,0.0,4,0,0.743,37.915699999999994,Aparecida de Goiânia (GO),False,estrada_osrm,até 1 h
+5209291,Guaraíta,Goiás - Itapuranga,Goiânia,,0,-15.6121,-50.0265,205.07380306240543,0.0,2.38,0.0,0.0,0,0,2.6220666666666665,130.4699,Goianésia (GO),False,estrada_osrm,2 a 3 h
+5209408,Guarani de Goiás,Posse-Campos Belos,Luziânia - Águas Lindas de Goiás,,0,-13.9421,-46.4868,1221.9335618226348,9.9,0.0,151.0,0.13131313131313133,0,0,5.753566666666667,342.2069,Brasília (DF),True,estrada_osrm,mais de 4 h
+5209457,Guarinos,Ceres - Rialma - Goianésia,Porangatu - Uruaçu,,0,-14.7292,-49.7006,594.9706960083083,0.835,9.8,9.0,0.47904191616766467,0,0,2.9253333333333336,132.96620000000001,Goianésia (GO),False,estrada_osrm,2 a 3 h
+5209606,Heitoraí,Inhumas - Itaberaí - Anicuns,Goiânia,,0,-15.719,-49.8268,228.7238741689034,0.25,46.25,4.0,0.0,0,0,2.2096,114.0841,Goianésia (GO),False,estrada_osrm,2 a 3 h
+5209705,Hidrolândia,Goiânia,Goiânia,,0,-16.9626,-49.2265,950.0009296789142,4.0,62.0,62.0,0.375,4,0,0.3196,19.2598,Aparecida de Goiânia (GO),False,estrada_osrm,até 1 h
+5209804,Hidrolina,Uruaçu - Niquelândia,Porangatu - Uruaçu,,0,-14.7261,-49.4634,582.8442232415962,0.0,76.2,0.0,0.0,0,0,2.2047999999999996,92.2163,Goianésia (GO),False,estrada_osrm,2 a 3 h
+5209903,Iaciara,Posse-Campos Belos,Luziânia - Águas Lindas de Goiás,,0,-14.1011,-46.6335,1548.5008638073405,4.5,0.0,68.0,0.0,0,0,5.1159333333333326,303.1636,Brasília (DF),True,estrada_osrm,mais de 4 h
+5209937,Inaciolândia,Quirinópolis,Rio Verde,,0,-18.4869,-49.9888,690.1586687556154,2100.47,1075.9,22822.0,0.9521678481482716,67,0,4.2787,275.37809999999996,Aparecida de Goiânia (GO),False,estrada_osrm,mais de 4 h
+5209952,Indiara,Palmeiras de Goiás,São Luís de Montes Belos - Iporá,,0,-17.1387,-49.9862,955.3913753461603,0.0,0.0,0.0,0.0,0,0,1.6057333333333332,100.0997,Aparecida de Goiânia (GO),False,estrada_osrm,1 a 2 h
+5210000,Inhumas,Inhumas - Itaberaí - Anicuns,Goiânia,,0,-16.3611,-49.5001,615.4936909853756,102.0,554.8,1377.0,0.0,3,0,1.3424333333333334,64.5294,Aparecida de Goiânia (GO),False,estrada_osrm,1 a 2 h
+5210109,Ipameri,Catalão,Goiânia,,0,-17.7215,-48.1581,4384.1113690923985,6.8,30.0,136.0,0.0,3,0,2.9672,169.979,Gameleira de Goiás (GO),False,estrada_osrm,2 a 3 h
+5210158,Ipiranga de Goiás,Ceres - Rialma - Goianésia,Porangatu - Uruaçu,,0,-15.1689,-49.6695,243.23440403245237,4.675,5.6,48.0,0.983957219251337,1,0,1.8036,80.17360000000001,Goianésia (GO),False,estrada_osrm,1 a 2 h
+5210208,Iporá,Iporá,São Luís de Montes Belos - Iporá,,0,-16.4398,-51.118,1026.6264720160223,0.0,6.0,0.0,0.0,3,0,4.531266666666666,242.9373,Aparecida de Goiânia (GO),False,estrada_osrm,mais de 4 h
+5210307,Israelândia,Iporá,São Luís de Montes Belos - Iporá,,0,-16.3144,-50.9087,579.4688480234875,0.0,4.1,0.0,0.0,0,0,4.013566666666667,215.4765,Aparecida de Goiânia (GO),False,estrada_osrm,mais de 4 h
+5210406,Itaberaí,Inhumas - Itaberaí - Anicuns,Goiânia,,0,-16.0206,-49.806,1462.4717114808336,0.0,152.3,0.0,0.0,8,0,2.2148666666666665,117.53460000000001,Aparecida de Goiânia (GO),False,estrada_osrm,2 a 3 h
+5210562,Itaguari,Inhumas - Itaberaí - Anicuns,Goiânia,,0,-15.918,-49.6071,143.1162901509619,0.0,27.35,0.0,0.0,0,0,1.8919,108.201,Goianésia (GO),False,estrada_osrm,1 a 2 h
+5210604,Itaguaru,Inhumas - Itaberaí - Anicuns,Goiânia,,0,-15.7565,-49.6354,241.89333103053013,0.0,15.585,0.0,0.0,0,0,1.9126000000000003,95.2175,Goianésia (GO),False,estrada_osrm,1 a 2 h
+5210802,Itajá,Rio Verde,Rio Verde,,0,-19.0673,-51.5495,2083.54955999137,0.0,4.0,0.0,0.0,12,0,2.0420666666666665,137.0697,Aparecida do Taboado (MS),True,estrada_osrm,2 a 3 h
+5210901,Itapaci,Ceres - Rialma - Goianésia,Porangatu - Uruaçu,,0,-14.9522,-49.5511,951.2053075907421,5.465,40.0,58.0,0.7319304666056725,2,0,2.0478,93.0624,Goianésia (GO),False,estrada_osrm,2 a 3 h
+5211008,Itapirapuã,Goiás - Itapuranga,Goiânia,,0,-15.8205,-50.6094,2044.8040888797436,8.0,10.8,116.0,0.0,0,0,4.0478,212.4034,Aparecida de Goiânia (GO),False,estrada_osrm,mais de 4 h
+5211206,Itapuranga,Goiás - Itapuranga,Goiânia,,0,-15.5606,-49.949,1282.5271654650178,78.325,29.4,800.0,0.35480370252154486,3,0,2.2368333333333337,115.0513,Goianésia (GO),False,estrada_osrm,2 a 3 h
+5211305,Itarumã,Rio Verde,Rio Verde,,0,-18.7646,-51.3485,3438.613868163987,0.0,0.0,0.0,0.0,2,0,2.6569333333333334,179.3591,Aparecida do Taboado (MS),True,estrada_osrm,2 a 3 h
+5211404,Itauçu,Inhumas - Itaberaí - Anicuns,Goiânia,,0,-16.2029,-49.6109,383.0420010056888,0.0,98.2,0.0,0.0,0,0,1.6730333333333334,86.4169,Aparecida de Goiânia (GO),False,estrada_osrm,1 a 2 h
+5211503,Itumbiara,Itumbiara,Itumbiara,,0,-18.4093,-49.2158,2449.391029943135,59.32,142.03,571.0,0.5276466621712744,431,0,2.7052,190.1541,Aparecida de Goiânia (GO),False,estrada_osrm,2 a 3 h
+5211602,Ivolândia,São Luís de Montes Belos,São Luís de Montes Belos - Iporá,,0,-16.5995,-50.7921,1263.1857323678994,0.0,10.0,0.0,0.0,0,0,3.9006999999999996,204.8879,Aparecida de Goiânia (GO),False,estrada_osrm,3 a 4 h
+5211701,Jandaia,Palmeiras de Goiás,São Luís de Montes Belos - Iporá,,0,-17.0481,-50.1453,863.1806607176925,7.5,38.0,107.0,0.0,0,0,2.0473666666666666,120.7027,Aparecida de Goiânia (GO),False,estrada_osrm,2 a 3 h
+5211800,Jaraguá,Anápolis,Goiânia,,0,-15.7529,-49.3344,1849.825995783246,33.05,30.5,445.0,0.2723146747352496,6,0,1.1320333333333332,59.1779,Goianésia (GO),False,estrada_osrm,1 a 2 h
+5211909,Jataí,Jataí-Mineiros,Rio Verde,,0,-17.8784,-51.7204,7180.198888968239,0.0,0.0,0.0,0.0,19,0,4.885666666666666,321.36440000000005,Aparecida de Goiânia (GO),False,estrada_osrm,mais de 4 h
+5212006,Jaupaci,Iporá,São Luís de Montes Belos - Iporá,,0,-16.1773,-50.9508,529.0061373487978,0.0,0.0,0.0,0.0,0,0,4.3959,231.92229999999998,Aparecida de Goiânia (GO),False,estrada_osrm,mais de 4 h
+5212055,Jesúpolis,Anápolis,Goiânia,,0,-15.9484,-49.3739,113.66948136000633,4.3,0.0,48.0,0.6511627906976745,0,0,1.8424666666666665,95.4324,Goianésia (GO),False,estrada_osrm,1 a 2 h
+5212105,Joviânia,Itumbiara,Itumbiara,,0,-17.802,-49.6197,446.96195885640213,6.1,8.6,57.0,0.4426229508196721,0,0,2.770666666666666,156.1442,Aparecida de Goiânia (GO),False,estrada_osrm,2 a 3 h
+5212204,Jussara,Goiás - Itapuranga,Goiânia,,0,-15.8659,-50.8668,4095.1385484941134,13.5,0.0,203.0,0.0,0,0,4.590133333333332,244.4627,Aparecida de Goiânia (GO),False,estrada_osrm,mais de 4 h
+5212253,Lagoa Santa,Rio Verde,Rio Verde,,0,-19.1832,-51.3998,463.413907291623,0.0,10.0,0.0,0.0,17,0,2.018966666666666,127.0736,Aparecida do Taboado (MS),True,estrada_osrm,2 a 3 h
+5212303,Leopoldo de Bulhões,Anápolis,Goiânia,,0,-16.619,-48.7428,475.6475956052189,56.22,58.2,724.0,0.4713625044468161,0,0,0.9111666666666666,45.5599,Gameleira de Goiás (GO),False,estrada_osrm,até 1 h
+5212501,Luziânia,Luziânia,Luziânia - Águas Lindas de Goiás,,0,-16.253,-47.95,3960.9206519715017,0.0,169.0,0.0,0.0,51,0,1.3664999999999998,60.0204,Brasília (DF),True,estrada_osrm,1 a 2 h
+5212600,Mairipotaba,Piracanjuba,Itumbiara,,0,-17.2975,-49.4898,467.70618724315636,14.05,2.85,209.0,0.0,0,0,1.3469,81.58189999999999,Aparecida de Goiânia (GO),False,estrada_osrm,1 a 2 h
+5212709,Mambaí,Posse-Campos Belos,Luziânia - Águas Lindas de Goiás,,0,-14.4823,-46.1165,857.0681690742437,0.25,0.0,6.0,1.0,0,0,5.411033333333333,307.8925,Brasília (DF),True,estrada_osrm,mais de 4 h
+5212808,Mara Rosa,Uruaçu - Niquelândia,Porangatu - Uruaçu,,0,-14.0148,-49.1777,1693.7174806042747,38.5,33.0,648.0,0.07792207792207792,2,0,3.2311666666666667,179.0998,Goianésia (GO),False,estrada_osrm,3 a 4 h
+5212907,Marzagão,Caldas Novas-Morrinhos,Itumbiara,,0,-17.983,-48.6415,226.7230410971418,0.0,0.0,0.0,0.0,0,0,2.9299333333333326,176.03029999999998,Aparecida de Goiânia (GO),False,estrada_osrm,2 a 3 h
+5212956,Matrinchã,Goiás - Itapuranga,Goiânia,,0,-15.4342,-50.7456,1151.6178531660864,30.0,61.0,435.0,0.0,0,0,4.807266666666666,229.1745,Goianésia (GO),False,estrada_osrm,mais de 4 h
+5213004,Maurilândia,Rio Verde,Rio Verde,,0,-17.9719,-50.3388,391.2950711395491,0.0,0.0,0.0,0.0,2,0,3.6648333333333336,225.28070000000002,Aparecida de Goiânia (GO),False,estrada_osrm,3 a 4 h
+5213053,Mimoso de Goiás,Águas Lindas de Goiás,Luziânia - Águas Lindas de Goiás,,0,-15.0515,-48.1611,1384.8396688991866,0.0,0.0,0.0,0.0,0,0,2.4008666666666665,143.8105,Goianésia (GO),False,estrada_osrm,2 a 3 h
+5213087,Minaçu,Porangatu,Porangatu - Uruaçu,,0,-13.5304,-48.2206,2855.383242211223,732.0,111.597,5568.0,0.9836065573770492,2,0,6.1108,335.7964,Goianésia (GO),False,estrada_osrm,mais de 4 h
+5213103,Mineiros,Jataí-Mineiros,Rio Verde,,0,-17.5654,-52.5537,9041.968140008184,0.0,0.0,0.0,0.0,13,0,6.860866666666666,427.74690000000004,Aparecida de Goiânia (GO),False,estrada_osrm,mais de 4 h
+5213400,Moiporá,São Luís de Montes Belos,São Luís de Montes Belos - Iporá,,0,-16.5434,-50.739,453.8715810983888,0.0,8.2,0.0,0.0,0,0,3.6752999999999996,194.313,Aparecida de Goiânia (GO),False,estrada_osrm,3 a 4 h
+5213509,Monte Alegre de Goiás,Posse-Campos Belos,Luziânia - Águas Lindas de Goiás,,0,-13.2552,-46.8928,3121.7277813583173,3.0,0.0,30.0,0.0,0,0,6.988133333333334,366.7731,Brasília (DF),True,estrada_osrm,mais de 4 h
+5213707,Montes Claros de Goiás,Iporá,São Luís de Montes Belos - Iporá,,0,-16.0059,-51.3979,2903.697838230402,0.0,0.0,0.0,0.0,1,0,5.578433333333334,286.1267,Aparecida de Goiânia (GO),False,estrada_osrm,mais de 4 h
+5213756,Montividiu,Rio Verde,Rio Verde,,0,-17.4439,-51.1728,1869.3844689797668,0.0,0.0,0.0,0.0,1,0,4.519033333333334,280.1392,Aparecida de Goiânia (GO),False,estrada_osrm,mais de 4 h
+5213772,Montividiu do Norte,Porangatu,Porangatu - Uruaçu,,0,-13.3485,-48.6853,1337.7777661867983,1.46,1.862,21.0,0.0,0,0,4.810933333333333,266.8157,Goianésia (GO),False,estrada_osrm,mais de 4 h
+5213806,Morrinhos,Caldas Novas-Morrinhos,Itumbiara,,0,-17.7334,-49.1059,2843.0587050816303,217.5,298.0,3001.0,0.39080459770114945,5,0,1.639633333333333,114.4011,Aparecida de Goiânia (GO),False,estrada_osrm,1 a 2 h
+5213855,Morro Agudo de Goiás,Ceres - Rialma - Goianésia,Porangatu - Uruaçu,,0,-15.3184,-50.0553,282.25123484669723,0.0,0.0,0.0,0.0,0,0,2.5889666666666664,124.655,Goianésia (GO),False,estrada_osrm,2 a 3 h
+5213905,Mossâmedes,Goiás - Itapuranga,Goiânia,,0,-16.124,-50.2136,684.7942351158831,47.0,152.0,693.0,0.0,0,0,3.1389666666666667,166.8594,Aparecida de Goiânia (GO),False,estrada_osrm,3 a 4 h
+5214002,Mozarlândia,Goiás - Itapuranga,Goiânia,,0,-14.7457,-50.5713,1738.9233848997317,35.0,10.0,541.0,0.0,5,0,4.667766666666666,212.0996,Goianésia (GO),False,estrada_osrm,mais de 4 h
+5214051,Mundo Novo,Porangatu,Porangatu - Uruaçu,,0,-13.7729,-50.2814,2139.5544684004562,89.0,40.0,1363.0,0.0,0,0,6.5944666666666665,283.7484,Goianésia (GO),False,estrada_osrm,mais de 4 h
+5214101,Mutunópolis,Porangatu,Porangatu - Uruaçu,,0,-13.7303,-49.2745,955.9696782642951,0.0,0.0,0.0,0.0,0,0,4.0092,217.16039999999998,Goianésia (GO),False,estrada_osrm,mais de 4 h
+5214408,Nazário,Palmeiras de Goiás,São Luís de Montes Belos - Iporá,,0,-16.5808,-49.8817,281.43621316403465,0.0,26.0,0.0,0.0,0,0,1.6935333333333336,88.38669999999999,Aparecida de Goiânia (GO),False,estrada_osrm,1 a 2 h
+5214507,Nerópolis,Goiânia,Goiânia,,0,-16.4047,-49.2227,203.8497374633039,8.65,5.2,135.0,0.12716763005780346,6,0,0.9592333333333333,51.3309,Aparecida de Goiânia (GO),False,estrada_osrm,até 1 h
+5214606,Niquelândia,Uruaçu - Niquelândia,Porangatu - Uruaçu,,0,-14.4662,-48.4599,9846.072817794698,6910.0,1297.0,55725.0,0.9971056439942113,343,0,2.5448,150.8255,Goianésia (GO),False,estrada_osrm,2 a 3 h
+5214705,Nova América,Ceres - Rialma - Goianésia,Porangatu - Uruaçu,,0,-15.0206,-49.8953,208.55194953048934,1.37,0.0,14.0,0.635036496350365,0,0,2.5355,114.26589999999999,Goianésia (GO),False,estrada_osrm,2 a 3 h
+5214804,Nova Aurora,Catalão,Goiânia,,0,-18.0597,-48.2552,306.7316259975188,0.0,0.0,0.0,0.0,0,0,4.150666666666667,241.5867,Aparecida de Goiânia (GO),False,estrada_osrm,mais de 4 h
+5214838,Nova Crixás,Goiás - Itapuranga,Goiânia,,0,-14.0957,-50.33,7308.0451020585515,201.5,458.5,2946.0,0.0,87,0,6.076133333333333,287.27590000000004,Goianésia (GO),False,estrada_osrm,mais de 4 h
+5214861,Nova Glória,Ceres - Rialma - Goianésia,Porangatu - Uruaçu,,0,-15.145,-49.5737,414.32569822641545,4.67,0.0,46.0,0.05032119914346895,0,0,1.5655333333333334,69.2411,Goianésia (GO),False,estrada_osrm,1 a 2 h
+5214879,Nova Iguaçu de Goiás,Uruaçu - Niquelândia,Porangatu - Uruaçu,,0,-14.2868,-49.3872,625.4018247417155,0.0,0.0,0.0,0.0,0,0,2.9555333333333333,161.9743,Goianésia (GO),False,estrada_osrm,2 a 3 h
+5214903,Nova Roma,Posse-Campos Belos,Luziânia - Águas Lindas de Goiás,,0,-13.7388,-46.8734,2132.448445514421,0.0,0.0,0.0,0.0,0,0,6.524566666666667,367.18109999999996,Brasília (DF),True,estrada_osrm,mais de 4 h
+5215009,Nova Veneza,Goiânia,Goiânia,,0,-16.3695,-49.3168,122.62169032353557,0.0,54.5,0.0,0.0,2,0,1.1817666666666669,62.5085,Aparecida de Goiânia (GO),False,estrada_osrm,1 a 2 h
+5215207,Novo Brasil,Goiás - Itapuranga,Goiânia,,0,-16.0313,-50.7113,649.3420700706743,6.5,4.0,88.0,0.0,0,0,3.9977333333333336,214.00310000000002,Aparecida de Goiânia (GO),False,estrada_osrm,3 a 4 h
+5215231,Novo Gama,Luziânia,Luziânia - Águas Lindas de Goiás,,0,-16.0592,-48.0417,193.22744429646437,0.0,0.0,0.0,0.0,17,0,0.8697333333333332,38.6968,Brasília (DF),True,estrada_osrm,até 1 h
+5215256,Novo Planalto,Porangatu,Porangatu - Uruaçu,,0,-13.2424,-49.506,1256.1934862094947,9.13,9.352,170.0,0.0,0,0,5.263533333333333,252.7962,Aliança do Tocantins (TO),True,estrada_osrm,mais de 4 h
+5215306,Orizona,Pires do Rio,Goiânia,,0,-17.0334,-48.2964,1968.0752855720289,104.11,87.0,1327.0,0.33445394294496206,1,0,1.4944999999999997,85.9847,Gameleira de Goiás (GO),False,estrada_osrm,1 a 2 h
+5215405,Ouro Verde de Goiás,Anápolis,Goiânia,,0,-16.2181,-49.1942,208.71910004893135,0.0,5.0,0.0,0.0,1,0,1.3991666666666664,75.34939999999999,Aparecida de Goiânia (GO),False,estrada_osrm,1 a 2 h
+5215504,Ouvidor,Catalão,Goiânia,,0,-18.2277,-47.8355,409.66670716855066,0.0,0.0,0.0,0.0,5,0,4.400566666666666,248.8559,Gameleira de Goiás (GO),False,estrada_osrm,mais de 4 h
+5215603,Padre Bernardo,Águas Lindas de Goiás,Luziânia - Águas Lindas de Goiás,,0,-15.1605,-48.2833,3143.6419437677364,0.0,0.0,0.0,0.0,5,0,2.009333333333333,123.9619,Goianésia (GO),False,estrada_osrm,2 a 3 h
+5215652,Palestina de Goiás,Iporá,São Luís de Montes Belos - Iporá,,0,-16.7392,-51.5309,1313.911467142614,0.0,0.0,0.0,0.0,0,0,5.781733333333334,309.5635,Aparecida de Goiânia (GO),False,estrada_osrm,mais de 4 h
+5215702,Palmeiras de Goiás,Palmeiras de Goiás,São Luís de Montes Belos - Iporá,,0,-16.8044,-49.924,1538.8493866593737,6.0,95.0,90.0,0.0,4,0,1.6873999999999998,95.526,Aparecida de Goiânia (GO),False,estrada_osrm,1 a 2 h
+5215801,Palmelo,Pires do Rio,Goiânia,,0,-17.3258,-48.426,59.645057031202754,4.811,0.0,61.0,0.6776138017044273,0,0,2.0471666666666666,138.2063,Aparecida de Goiânia (GO),False,estrada_osrm,2 a 3 h
+5215900,Palminópolis,Palmeiras de Goiás,São Luís de Montes Belos - Iporá,,0,-16.7924,-50.1652,392.5991280248091,1.3,24.0,19.0,0.0,0,0,2.5350666666666664,134.6056,Aparecida de Goiânia (GO),False,estrada_osrm,2 a 3 h
+5216007,Panamá,Itumbiara,Itumbiara,,0,-18.1783,-49.355,430.72516128198697,0.0,16.54,0.0,0.0,4,0,2.4412666666666665,170.6064,Aparecida de Goiânia (GO),False,estrada_osrm,2 a 3 h
+5216304,Paranaiguara,Quirinópolis,Rio Verde,,0,-18.9141,-50.6539,1155.521496400376,230.0,164.8,1840.0,1.0,25,0,3.424766666666666,188.0248,Aparecida do Taboado (MS),True,estrada_osrm,3 a 4 h
+5216403,Paraúna,Palmeiras de Goiás,São Luís de Montes Belos - Iporá,,0,-16.9463,-50.4484,3785.3139080866613,0.0,39.5,0.0,0.0,0,0,2.859866666666667,157.5819,Aparecida de Goiânia (GO),False,estrada_osrm,2 a 3 h
+5216452,Perolândia,Jataí-Mineiros,Rio Verde,,0,-17.5258,-52.065,1032.5358129084075,0.0,0.0,0.0,0.0,0,0,6.023066666666667,388.08320000000003,Aparecida de Goiânia (GO),False,estrada_osrm,mais de 4 h
+5216809,Petrolina de Goiás,Anápolis,Goiânia,,0,-16.0968,-49.3364,531.2827214603524,12.1,19.0,147.0,0.4132231404958678,1,0,1.5244666666666664,89.8795,Aparecida de Goiânia (GO),False,estrada_osrm,1 a 2 h
+5216908,Pilar de Goiás,Ceres - Rialma - Goianésia,Porangatu - Uruaçu,,0,-14.7608,-49.5784,906.6157977483748,0.0,0.0,0.0,0.0,0,0,2.5381666666666667,115.7393,Goianésia (GO),False,estrada_osrm,2 a 3 h
+5217104,Piracanjuba,Piracanjuba,Itumbiara,,0,-17.302,-49.017,2376.3780622452873,39.75,22.5,593.0,0.389937106918239,2,0,1.1491,69.07130000000001,Aparecida de Goiânia (GO),False,estrada_osrm,1 a 2 h
+5217203,Piranhas,Iporá,São Luís de Montes Belos - Iporá,,0,-16.4258,-51.8235,2044.2453107923848,0.0,2.0,0.0,0.0,0,0,6.5912,338.45390000000003,Aparecida de Goiânia (GO),False,estrada_osrm,mais de 4 h
+5217302,Pirenópolis,Anápolis,Goiânia,,0,-15.8507,-48.9584,2200.2353952446974,8.1,227.0,81.0,1.0,1,0,1.8111666666666666,84.6948,Goianésia (GO),False,estrada_osrm,1 a 2 h
+5217401,Pires do Rio,Pires do Rio,Goiânia,,0,-17.3019,-48.2768,1077.6683268307486,18.24,22.5,222.0,0.9314692982456141,4,0,1.9610666666666665,116.90169999999999,Gameleira de Goiás (GO),False,estrada_osrm,1 a 2 h
+5217609,Planaltina,Águas Lindas de Goiás,Luziânia - Águas Lindas de Goiás,,0,-15.452,-47.6089,2556.159690340055,81.35,493.5,895.0,0.990780577750461,18,0,1.1503666666666665,56.989599999999996,Brasília (DF),True,estrada_osrm,1 a 2 h
+5217708,Pontalina,Piracanjuba,Itumbiara,,0,-17.5225,-49.4489,1437.4418653864084,35.9,38.5,449.0,0.0,1,0,1.7052666666666667,111.51,Aparecida de Goiânia (GO),False,estrada_osrm,1 a 2 h
+5218003,Porangatu,Porangatu,Porangatu - Uruaçu,,0,-13.4391,-49.1503,4823.151137515031,100.8,117.363,1673.0,0.0,6,0,4.3887,240.6877,Goianésia (GO),False,estrada_osrm,mais de 4 h
+5218052,Porteirão,Rio Verde,Rio Verde,,0,-17.8143,-50.1653,607.113191269218,0.0,0.0,0.0,0.0,14,0,3.2200333333333333,186.93189999999998,Aparecida de Goiânia (GO),False,estrada_osrm,3 a 4 h
+5218102,Portelândia,Jataí-Mineiros,Rio Verde,,0,-17.3554,-52.6799,552.5841036952883,0.0,0.0,0.0,0.0,0,0,7.402900000000001,455.6536,Aparecida de Goiânia (GO),False,estrada_osrm,mais de 4 h
+5218300,Posse,Posse-Campos Belos,Luziânia - Águas Lindas de Goiás,,0,-14.0859,-46.3704,2075.692692445435,31.5,0.0,487.0,0.6349206349206349,5,0,5.072,310.4075,Brasília (DF),True,estrada_osrm,mais de 4 h
+5218391,Professor Jamil,Piracanjuba,Itumbiara,,0,-17.2497,-49.244,353.7425299984651,0.0,0.0,0.0,0.0,0,0,0.7770666666666666,52.5471,Aparecida de Goiânia (GO),False,estrada_osrm,até 1 h
+5218508,Quirinópolis,Quirinópolis,Rio Verde,,0,-18.4472,-50.4547,3786.0593819864325,1764.0,362.7,15170.0,1.0,30,0,4.5792,293.74609999999996,Aparecida do Taboado (MS),True,estrada_osrm,mais de 4 h
+5218607,Rialma,Ceres - Rialma - Goianésia,Porangatu - Uruaçu,,0,-15.3145,-49.5814,268.22339858224944,5.92,125.1,61.0,0.07601351351351351,0,0,1.1843666666666666,61.7206,Goianésia (GO),False,estrada_osrm,1 a 2 h
+5218706,Rianápolis,Ceres - Rialma - Goianésia,Porangatu - Uruaçu,,0,-15.4456,-49.5114,156.9963378312038,38.6,0.0,413.0,0.025906735751295335,0,0,1.119,54.4051,Goianésia (GO),False,estrada_osrm,1 a 2 h
+5218789,Rio Quente,Caldas Novas-Morrinhos,Itumbiara,,0,-17.774,-48.7725,244.41099964944246,1.22,0.0,24.0,0.0,1,0,2.528566666666667,159.53470000000002,Aparecida de Goiânia (GO),False,estrada_osrm,2 a 3 h
+5218805,Rio Verde,Rio Verde,Rio Verde,,0,-17.7923,-50.9192,8373.93185344785,0.0,140.0,0.0,0.0,58,0,3.5360333333333336,232.20479999999998,Aparecida de Goiânia (GO),False,estrada_osrm,3 a 4 h
+5218904,Rubiataba,Ceres - Rialma - Goianésia,Porangatu - Uruaçu,,0,-15.1617,-49.8048,749.4282116319987,27.48,0.0,281.0,0.9388646288209607,1,0,2.0829,93.47030000000001,Goianésia (GO),False,estrada_osrm,2 a 3 h
+5219001,Sanclerlândia,São Luís de Montes Belos,São Luís de Montes Belos - Iporá,,0,-16.197,-50.3124,507.82336703775024,6.0,23.7,88.0,0.0,0,0,2.862866666666667,153.0762,Aparecida de Goiânia (GO),False,estrada_osrm,2 a 3 h
+5219100,Santa Bárbara de Goiás,Palmeiras de Goiás,São Luís de Montes Belos - Iporá,,0,-16.5714,-49.6954,140.6619652083944,0.0,28.5,0.0,0.0,1,0,1.3258666666666667,68.6242,Aparecida de Goiânia (GO),False,estrada_osrm,1 a 2 h
+5219209,Santa Cruz de Goiás,Pires do Rio,Goiânia,,0,-17.3155,-48.4809,1110.9310649100123,51.78,36.3,637.0,0.5368868288914639,0,0,1.9661666666666666,132.0339,Aparecida de Goiânia (GO),False,estrada_osrm,1 a 2 h
+5219258,Santa Fé de Goiás,Goiás - Itapuranga,Goiânia,,0,-15.7664,-51.1037,1163.609559105474,1.5,0.0,22.0,0.0,0,0,5.284233333333334,280.46840000000003,Aparecida de Goiânia (GO),False,estrada_osrm,mais de 4 h
+5219308,Santa Helena de Goiás,Rio Verde,Rio Verde,,0,-17.8115,-50.5977,1143.2909112280395,0.0,0.0,0.0,0.0,2,0,3.3238,208.6611,Aparecida de Goiânia (GO),False,estrada_osrm,3 a 4 h
+5219357,Santa Isabel,Ceres - Rialma - Goianésia,Porangatu - Uruaçu,,0,-15.2958,-49.4259,813.5755507889991,0.23,3.0,2.0,0.0,0,0,0.8343666666666666,42.4349,Goianésia (GO),False,estrada_osrm,até 1 h
+5219407,Santa Rita do Araguaia,Jataí-Mineiros,Rio Verde,,0,-17.3269,-53.2012,1354.910302223739,0.0,0.0,0.0,0.0,0,0,8.1288,458.0047,Aparecida do Taboado (MS),True,estrada_osrm,mais de 4 h
+5219456,Santa Rita do Novo Destino,Ceres - Rialma - Goianésia,Porangatu - Uruaçu,,0,-15.1351,-49.1203,973.6213858802907,4.8,35.8,71.0,0.3854166666666667,0,0,0.49296666666666666,21.2465,Goianésia (GO),False,estrada_osrm,até 1 h
+5219506,Santa Rosa de Goiás,Anápolis,Goiânia,,0,-16.084,-49.4953,166.797033232917,3.23,20.0,46.0,0.2631578947368421,0,0,1.9432333333333331,109.0205,Aparecida de Goiânia (GO),False,estrada_osrm,1 a 2 h
+5219605,Santa Tereza de Goiás,Porangatu,Porangatu - Uruaçu,,0,-13.7138,-49.0144,789.7067036136618,0.0,0.0,0.0,0.0,0,0,3.6877666666666666,204.144,Goianésia (GO),False,estrada_osrm,3 a 4 h
+5219704,Santa Terezinha de Goiás,Ceres - Rialma - Goianésia,Porangatu - Uruaçu,,0,-14.4326,-49.7091,1208.684978248308,1.1,30.0,22.0,0.0,1,0,3.4135666666666666,138.3064,Goianésia (GO),False,estrada_osrm,3 a 4 h
+5219712,Santo Antônio da Barra,Rio Verde,Rio Verde,,0,-17.5585,-50.6345,451.0960914853544,0.0,0.0,0.0,0.0,0,0,2.9382,190.97279999999998,Aparecida de Goiânia (GO),False,estrada_osrm,2 a 3 h
+5219738,Santo Antônio de Goiás,Goiânia,Goiânia,,0,-16.4815,-49.3096,133.5557571031099,0.0,3.81,0.0,0.0,1,0,0.9173000000000001,44.8615,Aparecida de Goiânia (GO),False,estrada_osrm,até 1 h
+5219753,Santo Antônio do Descoberto,Luziânia,Luziânia - Águas Lindas de Goiás,,0,-15.9412,-48.2578,943.1255944184387,0.0,0.0,0.0,0.0,10,0,0.9452666666666667,47.0316,Brasília (DF),True,estrada_osrm,até 1 h
+5219803,São Domingos,Posse-Campos Belos,Luziânia - Águas Lindas de Goiás,,0,-13.621,-46.7415,3335.8895982117074,4.5,0.0,62.0,0.6666666666666666,0,0,7.086933333333333,365.21590000000003,Brasília (DF),True,estrada_osrm,mais de 4 h
+5219902,São Francisco de Goiás,Anápolis,Goiânia,,0,-15.9256,-49.2605,415.8552965166919,18.6,26.5,243.0,0.12903225806451613,0,0,1.5506,82.0624,Goianésia (GO),False,estrada_osrm,1 a 2 h
+5220009,São João d'Aliança,Flores de Goiás,Luziânia - Águas Lindas de Goiás,,0,-14.7048,-47.5228,3338.198593285229,4.64,0.0,50.0,0.8189655172413793,3,0,2.9792666666666663,153.15820000000002,Brasília (DF),True,estrada_osrm,2 a 3 h
+5220058,São João da Paraúna,Palmeiras de Goiás,São Luís de Montes Belos - Iporá,,0,-16.8126,-50.4092,285.42111509702676,4.0,123.2,59.0,0.0,0,0,3.1517,166.3003,Aparecida de Goiânia (GO),False,estrada_osrm,3 a 4 h
+5220108,São Luís de Montes Belos,São Luís de Montes Belos,São Luís de Montes Belos - Iporá,,0,-16.5211,-50.3726,832.0237184599761,0.0,0.0,0.0,0.0,1,0,2.710133333333333,144.67,Aparecida de Goiânia (GO),False,estrada_osrm,2 a 3 h
+5220157,São Luiz do Norte,Uruaçu - Niquelândia,Porangatu - Uruaçu,,0,-14.8608,-49.3285,583.106464794241,0.0,8.0,0.0,0.0,1,0,1.6895666666666664,68.5991,Goianésia (GO),False,estrada_osrm,1 a 2 h
+5220207,São Miguel do Araguaia,Porangatu,Porangatu - Uruaçu,,0,-13.2731,-50.1634,6146.027094484759,12.62,13.279,204.0,0.0,504,0,5.534366666666666,293.7111,Aliança do Tocantins (TO),True,estrada_osrm,mais de 4 h
+5220264,São Miguel do Passa Quatro,Anápolis,Goiânia,,0,-17.0582,-48.662,536.0559830450317,72.14,132.2,904.0,0.40754089270862215,0,0,1.4025666666666665,86.3786,Gameleira de Goiás (GO),False,estrada_osrm,1 a 2 h
+5220280,São Patrício,Ceres - Rialma - Goianésia,Porangatu - Uruaçu,,0,-15.35,-49.818,172.93341211869898,12.21,6.65,124.0,0.24488124488124488,0,0,1.786333333333333,91.9443,Goianésia (GO),False,estrada_osrm,1 a 2 h
+5220405,São Simão,Quirinópolis,Rio Verde,,0,-18.996,-50.547,414.69962994514276,0.0,0.0,0.0,0.0,199,0,3.511933333333333,191.7876,Aparecida do Taboado (MS),True,estrada_osrm,3 a 4 h
+5220454,Senador Canedo,Goiânia,Goiânia,,0,-16.7084,-49.0914,245.48282631141936,46.75,97.5,581.0,0.30802139037433157,40,0,0.6527333333333334,32.629799999999996,Aparecida de Goiânia (GO),False,estrada_osrm,até 1 h
+5220504,Serranópolis,Jataí-Mineiros,Rio Verde,,0,-18.3067,-51.9586,5521.37230110379,0.0,0.0,0.0,0.0,2,0,4.425766666666666,267.7487,Aparecida do Taboado (MS),True,estrada_osrm,mais de 4 h
+5220603,Silvânia,Anápolis,Goiânia,,0,-16.66,-48.6083,2349.6254532765647,140.01,121.0,1769.0,0.47960859938575817,2,0,0.4345333333333333,22.1205,Gameleira de Goiás (GO),False,estrada_osrm,até 1 h
+5220686,Simolândia,Posse-Campos Belos,Luziânia - Águas Lindas de Goiás,,0,-14.4644,-46.4847,347.3533331200458,0.0,0.0,0.0,0.0,0,0,4.235033333333333,255.1464,Brasília (DF),True,estrada_osrm,mais de 4 h
+5220702,Sítio d'Abadia,Posse-Campos Belos,Luziânia - Águas Lindas de Goiás,,0,-14.7992,-46.2506,1611.0412720724316,0.0,0.0,0.0,0.0,0,0,6.127566666666667,260.8583,Brasília (DF),True,estrada_osrm,mais de 4 h
+5221007,Taquaral de Goiás,Inhumas - Itaberaí - Anicuns,Goiânia,,0,-16.0521,-49.6039,205.00140026528135,0.0,54.7,0.0,0.0,0,0,2.0432,105.9933,Aparecida de Goiânia (GO),False,estrada_osrm,2 a 3 h
+5221080,Teresina de Goiás,Flores de Goiás,Luziânia - Águas Lindas de Goiás,,0,-13.7801,-47.2659,784.235149639283,61.6,145.0,561.0,0.8928571428571429,0,0,5.500900000000001,286.0707,Brasília (DF),True,estrada_osrm,mais de 4 h
+5221197,Terezópolis de Goiás,Goiânia,Goiânia,,0,-16.3945,-49.0797,107.66539512877726,30.0,3.85,375.0,1.0,2,0,1.1465666666666665,60.363699999999994,Gameleira de Goiás (GO),False,estrada_osrm,1 a 2 h
+5221304,Três Ranchos,Catalão,Goiânia,,0,-18.3539,-47.776,285.0507515671323,260.0,7.0,1846.0,1.0,9,0,4.682599999999999,263.2168,Gameleira de Goiás (GO),False,estrada_osrm,mais de 4 h
+5221403,Trindade,Goiânia,Goiânia,,0,-16.6517,-49.4927,712.5131466600595,135.0,120.1,2095.0,0.0,16,0,0.8386999999999999,45.5785,Aparecida de Goiânia (GO),False,estrada_osrm,até 1 h
+5221452,Trombas,Porangatu,Porangatu - Uruaçu,,0,-13.5079,-48.7417,802.170163755066,10.07,10.756,198.0,0.0,1,0,4.477533333333333,247.7277,Goianésia (GO),False,estrada_osrm,mais de 4 h
+5221502,Turvânia,Palmeiras de Goiás,São Luís de Montes Belos - Iporá,,0,-16.6125,-50.1369,482.59955134222895,0.0,12.9,0.0,0.0,0,0,2.195266666666667,116.75869999999999,Aparecida de Goiânia (GO),False,estrada_osrm,2 a 3 h
+5221551,Turvelândia,Rio Verde,Rio Verde,,0,-17.8502,-50.3024,934.6785012914197,0.0,0.0,0.0,0.0,0,0,3.5006666666666666,215.98770000000002,Aparecida de Goiânia (GO),False,estrada_osrm,3 a 4 h
+5221577,Uirapuru,Ceres - Rialma - Goianésia,Porangatu - Uruaçu,,0,-14.2835,-49.9201,1152.2390993566898,220.0,105.0,2795.0,0.0,0,0,4.886733333333334,205.3872,Goianésia (GO),False,estrada_osrm,mais de 4 h
+5221601,Uruaçu,Uruaçu - Niquelândia,Porangatu - Uruaçu,,0,-14.5238,-49.1396,2143.1225820309387,496.0,410.5,4290.0,0.907258064516129,46,0,1.9542333333333333,112.14739999999999,Goianésia (GO),False,estrada_osrm,1 a 2 h
+5221700,Uruana,Ceres - Rialma - Goianésia,Porangatu - Uruaçu,,0,-15.4993,-49.6861,522.0532965070246,36.13,97.0,373.0,0.03736507057846665,1,0,1.5582333333333331,78.61160000000001,Goianésia (GO),False,estrada_osrm,1 a 2 h
+5221809,Urutaí,Pires do Rio,Goiânia,,0,-17.4651,-48.2015,625.1464082295372,17.13,23.0,199.0,0.858727378867484,0,0,2.3861666666666665,139.4479,Gameleira de Goiás (GO),False,estrada_osrm,2 a 3 h
+5221858,Valparaíso de Goiás,Luziânia,Luziânia - Águas Lindas de Goiás,,0,-16.0651,-47.9757,61.09483570026335,0.0,0.0,0.0,0.0,45,0,0.8135333333333332,36.7934,Brasília (DF),True,estrada_osrm,até 1 h
+5221908,Varjão,Goiânia,Goiânia,,0,-17.0471,-49.6312,517.1135640242567,1.95,17.6,28.0,0.0,0,0,1.2979333333333334,71.2952,Aparecida de Goiânia (GO),False,estrada_osrm,1 a 2 h
+5222005,Vianópolis,Anápolis,Goiânia,,0,-16.7405,-48.5159,954.4085690277448,88.81,100.5,1131.0,0.6215516270690238,1,0,0.8512333333333332,42.3891,Gameleira de Goiás (GO),False,estrada_osrm,até 1 h
+5222054,Vicentinópolis,Piracanjuba,Itumbiara,,0,-17.7322,-49.8047,735.169578374446,74.32,12.28,665.0,0.42115177610333693,3,0,2.754233333333333,161.3981,Aparecida de Goiânia (GO),False,estrada_osrm,2 a 3 h
+5222203,Vila Boa,Flores de Goiás,Luziânia - Águas Lindas de Goiás,,0,-15.0387,-47.052,1051.8859231168833,6.5,0.0,65.0,0.8923076923076924,3,0,2.924133333333333,162.0944,Brasília (DF),True,estrada_osrm,2 a 3 h
+5222302,Vila Propício,Ceres - Rialma - Goianésia,Porangatu - Uruaçu,,0,-15.4542,-48.8819,2177.506811043614,20.9,34.4,250.0,0.3588516746411483,0,0,0.7347333333333332,32.3401,Goianésia (GO),False,estrada_osrm,até 1 h

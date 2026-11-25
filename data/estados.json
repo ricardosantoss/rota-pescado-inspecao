@@ -1,0 +1,5 @@
+[
+  {"uf": "GO", "nome": "Goiás", "ativo": true},
+  {"uf": "AP", "nome": "Amapá", "ativo": false},
+  {"uf": "RJ", "nome": "Rio de Janeiro", "ativo": false}
+]
