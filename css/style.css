@@ -164,6 +164,7 @@ tbody tr.sel { background: #e4eff3; }
 .lattes:hover { border-color: var(--primaria); }
 .fontes { margin: 14px 0 0; font-size: 12px; color: var(--suave); }
 @media (max-width: 600px) { .credito { grid-template-columns: 1fr; gap: 0; margin-bottom: 4px; } }
+
 /* ---------- diálogo ---------- */
 .dialogo { border: 0; border-radius: 12px; max-width: 720px; width: calc(100% - 32px); padding: 26px 28px; box-shadow: var(--sombra); }
 .dialogo::backdrop { background: rgba(20,30,28,.45); }
@@ -183,3 +184,15 @@ tbody tr.sel { background: #e4eff3; }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 
 .destaque { color: var(--primaria); font-weight: 600; }
+
+/* ---------- espécies ---------- */
+.sel-esp { width: 100%; margin-top: 8px; }
+.especies { list-style: none; margin: 0; padding: 0; display: grid; gap: 7px; }
+.especies li { display: grid; grid-template-columns: 1fr auto; gap: 2px 10px; font-size: 12.5px; }
+.especies .barra { grid-column: 1 / -1; height: 5px; border-radius: 3px; background: var(--linha); overflow: hidden; }
+.especies .barra span { display: block; height: 100%; background: var(--primaria); opacity: .75; }
+.especies li.atual { font-weight: 600; }
+.especies li.atual .barra span { opacity: 1; background: var(--sim); }
+.especies .q { font-variant-numeric: tabular-nums; color: var(--suave); }
+.especies .zero { color: var(--suave); font-size: 12px; }
+
