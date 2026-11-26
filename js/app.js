@@ -17,6 +17,7 @@ const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "
 // ---------------------------------------------------------------------------
 const S = {
   uf: "GO", camada: "AMBOS", T: 2, ano: 2025, fator: 1.2,
+  esp: "",            // espécie escolhida ("" = todas)
   sim: [],            // códigos de municípios com unidades hipotéticas
   simulando: false,
   sel: null,          // município selecionado
@@ -37,6 +38,7 @@ async function carregarEstado(uf) {
       if (!r.ok) throw new Error(`${f}: ${r.status}`);
       return r.json();
     })));
+  const esp = await fetch(base + "especies.json").then((r) => (r.ok ? r.json() : null)).catch(() => null);
   const N = mat.nos.length;
   const idx = new Map(mat.nos.map((c, i) => [c, i]));
   D = {
@@ -44,7 +46,9 @@ async function carregarEstado(uf) {
     min: Int32Array.from(mat.minutos_carro), km: Int32Array.from(mat.km),
     porCod: new Map(muns.municipios.map((m) => [m.cod, m])),
     nomeNo: new Map(), // nome de nós de fora do estado
+    esp,               // produção por espécie (pode faltar)
   };
+  prepararEspecies();
   for (const e of est) if (!D.porCod.has(e.cod)) D.nomeNo.set(e.cod, `${e.municipio} (${e.uf})`);
   D.muns.forEach((m) => { m.i = idx.get(m.cod); });
   const rAno = $("#rng-ano");
@@ -54,7 +58,24 @@ async function carregarEstado(uf) {
 }
 
 const nomeDe = (cod) => D.porCod.get(cod)?.nome ?? D.nomeNo.get(cod) ?? cod;
-const prodAno = (m, ano = S.ano) => m.prod[D.anos.indexOf(ano)] ?? 0;
+const idxEsp = () => (S.esp && D.esp ? D.esp.especies.findIndex((e) => String(e.id) === S.esp) : -1);
+const serieEsp = (m, k) => D.esp?.dados[m.cod]?.[k] ?? null;
+const serieProd = (m) => { const k = idxEsp(); return k < 0 ? m.prod : (serieEsp(m, k) ?? m.prod.map(() => 0)); };
+const prodAno = (m, ano = S.ano) => serieProd(m)[D.anos.indexOf(ano)] ?? 0;
+const nomeEspCurto = (nome) => nome.split(",")[0];
+const rotProd = () => { const k = idxEsp(); return k < 0 ? "peixe criado" : nomeEspCurto(D.esp.especies[k].nome).toLowerCase(); };
+
+function prepararEspecies() {
+  const bloco = $("#bloco-especie"), sel = $("#sel-esp");
+  if (!bloco || !sel) return;
+  if (!D.esp) { bloco.hidden = true; S.esp = ""; return; }
+  const tot = D.esp.especies.reduce((a, e) => a + e.total_ultimo_ano_t, 0);
+  sel.innerHTML = `<option value="">Todas as espécies</option>` + D.esp.especies.filter((e) => e.total_ultimo_ano_t > 0 || Object.values(D.esp.dados).some((d) => d[D.esp.especies.indexOf(e)]))
+    .map((e) => `<option value="${e.id}">${esc(e.nome)}${e.total_ultimo_ano_t > 0 ? ` · ${fmtPct((e.total_ultimo_ano_t / tot) * 100)}` : " · sem produção em " + D.anos.at(-1)}</option>`).join("");
+  if (S.esp && !D.esp.especies.some((e) => String(e.id) === S.esp)) S.esp = "";
+  sel.value = S.esp;
+  bloco.hidden = false;
+}
 const tempoH = (i, j) => (D.min[i * D.N + j] * S.fator) / 60;
 
 // ---------------------------------------------------------------------------
@@ -137,6 +158,7 @@ const fmtT = (v) => {
   if (v >= 1000) return `${fmt1.format(v / 1000)} mil t`;
   return `${fmtInt.format(v)} t`;
 };
+const fmtPct = (x) => (x <= 0 ? "0%" : x < 0.1 ? "menos de 0,1%" : `${fmt1.format(x)}%`);
 const rotCamada = { SIF: "federal (SIF)", SIE: "estadual (SIE)", AMBOS: "federal ou estadual" };
 
 // ---------------------------------------------------------------------------
@@ -175,7 +197,7 @@ function atualizarMapa() {
     const m = D.porCod.get(cod);
     lyr.setStyle({ fillColor: corTempo(t), weight: S.sel === cod ? 2.5 : 0.6, color: S.sel === cod ? "#1d2422" : "#ffffff" });
     lyr.unbindTooltip();
-    if (m) lyr.bindTooltip(`<b>${esc(m.nome)}</b><br>${fmtT(prodAno(m))} em ${S.ano}<br>${fmtH(t)} até a inspeção ${rotCamada[S.camada]}`, { sticky: true, className: "tt" });
+    if (m) lyr.bindTooltip(`<b>${esc(m.nome)}</b><br>${fmtT(prodAno(m))} de ${rotProd()} em ${S.ano}<br>${fmtH(t)} até a inspeção ${rotCamada[S.camada]}`, { sticky: true, className: "tt" });
   });
 
   // círculos de produção
@@ -233,7 +255,7 @@ function desenharLegenda() {
       ${S.camada !== "SIE" ? '<div class="item"><span class="marc-leg sif"></span> estabelecimento com SIF (federal)</div>' : ""}
       ${S.camada !== "SIF" ? '<div class="item"><span class="marc-leg sie"></span> estabelecimento com SIE (estadual)</div>' : ""}
       ${S.sim.length ? '<div class="item"><span class="marc-leg sim"></span> unidade hipotética</div>' : ""}
-      <div class="item"><span class="marc-leg prod"></span> produção de peixe em ${S.ano}</div>
+      <div class="item"><span class="marc-leg prod"></span> produção de ${rotProd()} em ${S.ano}</div>
     </div>`;
 }
 
@@ -244,7 +266,7 @@ function atualizarKPIs() {
   const { ts, tsBase, pesos } = calc;
   const cob = cobertura(ts, pesos, S.T);
   $("#kpi-cob").textContent = `${fmt1.format(cob)}%`;
-  $("#kpi-cob-rot").textContent = `da produção de ${S.ano} a até ${fmtH(S.T).replace(" 00", "")} de uma inspeção ${rotCamada[S.camada]}`;
+  $("#kpi-cob-rot").textContent = `da produção de ${rotProd()} de ${S.ano} a até ${fmtH(S.T).replace(" 00", "")} de uma inspeção ${rotCamada[S.camada]}`;
   if (S.sim.length) {
     const d = cob - cobertura(tsBase, pesos, S.T);
     $("#kpi-cob-delta").textContent = `${d >= 0 ? "+" : ""}${fmt1.format(d)} pontos com ${S.sim.length} unidade${S.sim.length > 1 ? "s" : ""} hipotética${S.sim.length > 1 ? "s" : ""}`;
@@ -253,7 +275,7 @@ function atualizarKPIs() {
   let desc = 0;
   ts.forEach((x, k) => { if (x.t > S.T) desc += pesos[k]; });
   $("#kpi-desc").textContent = fmtT(desc);
-  $("#kpi-desc-rot").textContent = `de peixe a mais de ${fmtH(S.T).replace(" 00", "")} da inspeção`;
+  $("#kpi-desc-rot").textContent = `de ${rotProd()} a mais de ${fmtH(S.T).replace(" 00", "")} da inspeção`;
   const nSIF = calc.ativos.filter((e) => e.tipo === "SIF").length, nSIE = calc.ativos.filter((e) => e.tipo === "SIE").length;
   $("#kpi-est").textContent = fmtInt.format(calc.ativos.length);
   $("#kpi-est").title = `${nSIF} com SIF, ${nSIE} com SIE`;
@@ -299,7 +321,7 @@ function clicarMunicipio(cod) {
 
 function sparkline(m) {
   const W = 320, H = 70, x0 = 4, x1 = W - 4, y0 = 8, y1 = H - 16;
-  const v = m.prod, vmax = Math.max(...v, 1);
+  const v = serieProd(m), vmax = Math.max(...v, 0.001);
   const X = (k) => x0 + (k / (v.length - 1)) * (x1 - x0), Y = (p) => y1 - (p / vmax) * (y1 - y0);
   const d = v.map((p, k) => `${k ? "L" : "M"}${X(k).toFixed(1)},${Y(p).toFixed(1)}`).join("");
   const ks = D.anos.indexOf(S.ano);
@@ -308,6 +330,30 @@ function sparkline(m) {
     <circle cx="${X(ks)}" cy="${Y(v[ks])}" r="4" fill="var(--primaria)"/>
     <text x="${x0}" y="${H - 2}" font-size="10" fill="#5e6b67">${D.anos[0]}: ${fmtT(v[0])}</text>
     <text x="${x1}" y="${H - 2}" font-size="10" fill="#5e6b67" text-anchor="end">${D.anos.at(-1)}: ${fmtT(v.at(-1))}</text></svg>`;
+}
+
+function especiesDoAno(m) {
+  if (!D.esp || !D.esp.dados[m.cod]) return [];
+  const a = D.anos.indexOf(S.ano);
+  return Object.entries(D.esp.dados[m.cod]).map(([k, serie]) => ({ k: +k, e: D.esp.especies[+k], t: serie[a] }))
+    .filter((x) => x.t > 0).sort((x, y) => y.t - x.t);
+}
+
+function principal(m) {
+  const l = especiesDoAno(m);
+  if (!l.length) return D.esp ? "—" : (m.tilapia ? `Tilápia ${fmtInt.format(m.tilapia * 100)}%` : "—");
+  const tot = l.reduce((s, x) => s + x.t, 0);
+  return `${esc(nomeEspCurto(l[0].e.nome))} <span style="font-weight:500;color:var(--suave)">${fmtInt.format((l[0].t / tot) * 100)}%</span>`;
+}
+
+function listaEspecies(m) {
+  if (!D.esp) return "";
+  const l = especiesDoAno(m);
+  if (!l.length) return `<h4>Espécies criadas (${S.ano})</h4><p class="especies zero">A PPM não registra produção de peixe criado aqui em ${S.ano}.</p>`;
+  const tot = l.reduce((s, x) => s + x.t, 0), max = l[0].t, kSel = idxEsp();
+  return `<h4>Espécies criadas (${S.ano})</h4><ul class="especies">${l.map((x) => `
+    <li class="${x.k === kSel ? "atual" : ""}" title="${esc(x.e.nome)}"><span>${esc(x.e.nome)}</span><span class="q">${fmtT(x.t)} · ${fmtPct((x.t / tot) * 100)}</span>
+      <span class="barra"><span style="width:${Math.max(2, (x.t / max) * 100).toFixed(1)}%"></span></span></li>`).join("")}</ul>`;
 }
 
 function maisProximo(m, tipo) {
@@ -353,12 +399,13 @@ function desenharFicha() {
     <h3>${esc(m.nome)}</h3>
     <div class="sub">${esc(m.regiao)}${m.reservatorio ? ` · reservatório ${esc(m.reservatorio)} (${m.cessoes} cess${m.cessoes > 1 ? "ões" : "ão"} em águas da União)` : ""}</div>
     <div class="grade">
-      <div><span>Peixe criado em ${S.ano}</span><b>${fmtT(p)}</b></div>
-      <div><span>Parte do estado</span><b>${!tot || p === 0 ? "0%" : (p / tot) * 100 < 0.1 ? "menos de 0,1%" : fmt1.format((p / tot) * 100) + "%"}</b></div>
-      <div><span>Tilápia (${D.anos.at(-1)})</span><b>${p > 0 || m.tilapia ? `${fmtInt.format(m.tilapia * 100)}%` : "—"}</b></div>
+      <div><span>${S.esp ? esc(nomeEspCurto(D.esp.especies[idxEsp()].nome)) : "Peixe criado"} em ${S.ano}</span><b>${fmtT(p)}</b></div>
+      <div><span>Parte do estado</span><b>${tot ? fmtPct((p / tot) * 100) : "0%"}</b></div>
+      <div><span>Espécie principal (${S.ano})</span><b>${principal(m)}</b></div>
       <div><span>Pescadores registrados</span><b>${fmtInt.format(m.pescadores)}</b></div>
     </div>
     <div class="spark">${sparkline(m)}</div>
+    ${listaEspecies(m)}
     <h4>Inspeção mais próxima (${S.ano})</h4>
     <div class="mais-prox">${cartao("SIF", sif)}${cartao("SIE", sie)}</div>
     <p class="nota">Na camada escolhida (${rotCamada[S.camada]}${S.sim.length ? " + hipotéticas" : ""}): <b>${fmtH(t)}</b>, ${classe}.</p>
@@ -414,20 +461,21 @@ function desenharTabela() {
   const { k, dir } = S.ordem;
   const rows = linhasTabela().sort((a, b) => (typeof a[k] === "string" ? a[k].localeCompare(b[k], "pt") : a[k] - b[k]) * dir);
   $("#tabela tbody").innerHTML = rows.map((r) => `<tr data-cod="${r.m.cod}" class="${r.m.cod === S.sel ? "sel" : ""}">
-    <td>${esc(r.nome)}</td><td>${esc(r.regiao)}</td><td class="n">${fmtInt.format(r.prod)}</td>
+    <td>${esc(r.nome)}</td><td>${esc(r.regiao)}</td><td class="n">${r.prod < 1 && r.prod > 0 ? fmtT(r.prod) : fmtInt.format(r.prod)}</td>
     <td class="n">${pilula(r.tSIF)}</td><td class="n">${pilula(r.tSIE)}</td><td class="n">${pilula(r.t)}</td></tr>`).join("");
   document.querySelectorAll("#tabela th").forEach((th) => th.classList.toggle("ord-asc", th.dataset.k === k && dir > 0));
   document.querySelectorAll("#tabela th").forEach((th) => th.classList.toggle("ord-desc", th.dataset.k === k && dir < 0));
+  $("#tabela").querySelector("thead th[data-k=prod]").textContent = S.esp ? `${nomeEspCurto(D.esp.especies[idxEsp()].nome)} (t)` : "Produção (t)";
   $("#tabela").querySelector("thead th:last-child").textContent = `até a inspeção (${S.camada === "AMBOS" ? "qualquer" : S.camada}${S.sim.length ? " + hip." : ""})`;
 }
 
 function baixarCSV() {
-  const cab = ["codigo_ibge", "municipio", "regiao_imediata", `producao_t_${S.ano}`, "horas_ate_SIF", "horas_ate_SIE", "horas_ate_inspecao_camada", "camada", "fator_caminhao"];
+  const cab = ["codigo_ibge", "municipio", "regiao_imediata", `producao_t_${S.ano}${S.esp ? "_" + nomeEspCurto(D.esp.especies[idxEsp()].nome).toLowerCase() : ""}`, "horas_ate_SIF", "horas_ate_SIE", "horas_ate_inspecao_camada", "camada", "fator_caminhao"];
   const linhas = D.muns.map((m, k) => [m.cod, m.nome, m.regiao, prodAno(m).toFixed(2), calc.tsSIF[k].t.toFixed(2), calc.tsSIE[k].t.toFixed(2), calc.ts[k].t.toFixed(2), S.camada, S.fator]);
   const csv = [cab, ...linhas].map((l) => l.map((v) => `"${String(v).replace(/"/g, '""')}"`).join(";")).join("\n");
   const a = document.createElement("a");
   a.href = URL.createObjectURL(new Blob(["﻿" + csv], { type: "text/csv;charset=utf-8" }));
-  a.download = `acesso_inspecao_${S.uf}_${S.ano}_${S.camada}.csv`;
+  a.download = `acesso_inspecao_${S.uf}_${S.ano}_${S.camada}${S.esp ? "_especie" + S.esp : ""}.csv`;
   a.click();
 }
 
@@ -449,6 +497,8 @@ function desenharSobre() {
     </ul>
     <h4>Linha do tempo</h4>
     <p>A produção é a de cada ano da PPM. Um estabelecimento entra no mapa a partir do ano em que foi registrado: no SIE, o ano vem do número (ex.: 1490/<b>15</b> = 2015); no SIF, da data de reserva do número no SIGSIF, a mais antiga disponível. Estabelecimentos sem data entram em todos os anos. Fechamentos passados não aparecem, porque os cadastros só listam quem está ativo hoje.</p>
+    <h4>Espécies</h4>
+    <p>A produção por espécie é a da PPM/IBGE (tabela 3940), que agrupa algumas espécies: por exemplo, "Pintado, cachara, cachapira e pintachara, surubim" e "Pacu e patinga" (onde costuma entrar o pacu-caranha). Ao escolher uma espécie, o mapa, os números, a curva e a tabela passam a usar só a produção dela.</p>
     <h4>Simulador</h4>
     <p>As unidades hipotéticas funcionam como um estabelecimento inspecionado na sede do município. "Sugerir" escolhe, entre todos os municípios, o que sozinho mais aumenta a produção coberta no limite escolhido (heurística gulosa do problema de máxima cobertura). É um ponto de partida para discussão, não um estudo de viabilidade.</p>
     <h4>Cuidados</h4>
@@ -474,11 +524,13 @@ function lerHash() {
   if (+h.get("fator")) S.fator = +h.get("fator");
   if (h.get("mun")) S.sel = h.get("mun");
   if (h.get("sim")) S.sim = h.get("sim").split(",").filter(Boolean);
+  if (h.get("esp")) S.esp = h.get("esp");
 }
 function gravarHash() {
   const h = new URLSearchParams({ uf: S.uf, camada: S.camada, T: S.T, ano: S.ano, fator: S.fator });
   if (S.sel) h.set("mun", S.sel);
   if (S.sim.length) h.set("sim", S.sim.join(","));
+  if (S.esp) h.set("esp", S.esp);
   history.replaceState(null, "", `#${h}`);
 }
 
@@ -490,6 +542,7 @@ function sincronizarControles() {
   $("#rng-T").value = S.T; $("#out-T").textContent = fmtH(S.T).replace(" 00", "");
   $("#rng-ano").value = S.ano; $("#out-ano").textContent = S.ano;
   $("#sel-fator").value = S.fator.toFixed(1);
+  if ($("#sel-esp")) $("#sel-esp").value = S.esp;
   $("#sim-ajuda").textContent = S.simulando
     ? "Clique em municípios do mapa para pôr ou tirar unidades hipotéticas."
     : "Ative e clique em municípios do mapa para instalar unidades de inspeção hipotéticas. A cobertura é recalculada na hora.";
@@ -526,6 +579,7 @@ function ligarControles() {
   $("#rng-ano").addEventListener("input", (e) => { S.ano = +e.target.value; tudo(); });
   $("#sel-fator").addEventListener("change", (e) => { S.fator = +e.target.value; tudo(); });
   $("#btn-play").addEventListener("click", alternarPlay);
+  $("#sel-esp")?.addEventListener("change", (e) => { S.esp = e.target.value; tudo(); });
   $("#chk-sim").addEventListener("change", (e) => { S.simulando = e.target.checked; tudo(); });
   $("#btn-sugerir").addEventListener("click", () => {
     const m = melhorProxima();
@@ -587,3 +641,4 @@ function prepararExternos() {
 }
 
 iniciar();
+
