@@ -101,6 +101,28 @@ for r in base.itertuples():
 json.dump({"anos": anos, "municipios": muns}, open(OUT / "municipios.json", "w"), ensure_ascii=False, separators=(",", ":"))
 
 # ---------------------------------------------------------------------------
+# Produção por espécie (PPM 3940): toneladas e valor por município, espécie e ano
+# ---------------------------------------------------------------------------
+arq_esp = INS_UF / "ppm_especies_2015_2025.csv"
+if arq_esp.exists():
+    nomes = dict(json.load(open(INS / "ppm_especies_nomes.json")))
+    e = pd.read_csv(arq_esp, dtype={"cod_mun": str})
+    q = e[e.variavel == 4146].copy()
+    q["t"] = q.valor / 1000
+    tot = q[q.ano == anos[-1]].groupby("produto_id").t.sum().sort_values(ascending=False)
+    ordem = [int(i) for i in tot.index] + [int(i) for i in nomes if int(i) not in tot.index]
+    esp_idx = {pid: k for k, pid in enumerate(ordem)}
+    dados = {}
+    for (cod, pid), g in q.groupby(["cod_mun", "produto_id"]):
+        serie_e = g.set_index("ano").t.reindex(anos).fillna(0)
+        if serie_e.sum() > 0:
+            dados.setdefault(cod, {})[esp_idx[int(pid)]] = [round(float(x), 3) for x in serie_e]
+    json.dump({"anos": anos,
+               "especies": [{"id": pid, "nome": nomes[pid] if pid in nomes else nomes[str(pid)],
+                             "total_ultimo_ano_t": round(float(tot.get(pid, 0)), 1)} for pid in ordem],
+               "dados": dados}, open(OUT / "especies.json", "w"), ensure_ascii=False, separators=(",", ":"))
+
+# ---------------------------------------------------------------------------
 # Estabelecimentos: SIF (federal) e SIE (estadual)
 # ---------------------------------------------------------------------------
 est = []
@@ -174,3 +196,4 @@ json.dump(meta, open(OUT / "meta.json", "w"), ensure_ascii=False, indent=1)
 for f in sorted(OUT.iterdir()):
     print(f"{f.name:24s} {f.stat().st_size / 1024:8.0f} KB")
 print(f"{meta['n_sif']} SIF e {meta['n_sie']} SIE na rede de {UF}; {len(muns)} municípios; anos {anos[0]}–{anos[-1]}")
+
