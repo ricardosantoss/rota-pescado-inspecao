@@ -130,7 +130,13 @@ const fmtH = (t) => {
   const h = Math.floor(t), min = Math.round((t - h) * 60);
   return h ? `${h} h ${String(min).padStart(2, "0")}` : `${min} min`;
 };
-const fmtT = (v) => (v >= 1000 ? `${fmt1.format(v / 1000)} mil t` : `${fmtInt.format(v)} t`);
+const fmtT = (v) => {
+  if (v <= 0) return "0 t";
+  if (v < 1) return `${fmtInt.format(v * 1000)} kg`;
+  if (v < 10) return `${fmt1.format(v)} t`;
+  if (v >= 1000) return `${fmt1.format(v / 1000)} mil t`;
+  return `${fmtInt.format(v)} t`;
+};
 const rotCamada = { SIF: "federal (SIF)", SIE: "estadual (SIE)", AMBOS: "federal ou estadual" };
 
 // ---------------------------------------------------------------------------
@@ -348,7 +354,7 @@ function desenharFicha() {
     <div class="sub">${esc(m.regiao)}${m.reservatorio ? ` · reservatório ${esc(m.reservatorio)} (${m.cessoes} cess${m.cessoes > 1 ? "ões" : "ão"} em águas da União)` : ""}</div>
     <div class="grade">
       <div><span>Peixe criado em ${S.ano}</span><b>${fmtT(p)}</b></div>
-      <div><span>Parte do estado</span><b>${tot ? fmt1.format((p / tot) * 100) : 0}%</b></div>
+      <div><span>Parte do estado</span><b>${!tot || p === 0 ? "0%" : (p / tot) * 100 < 0.1 ? "menos de 0,1%" : fmt1.format((p / tot) * 100) + "%"}</b></div>
       <div><span>Tilápia (${D.anos.at(-1)})</span><b>${p > 0 || m.tilapia ? `${fmtInt.format(m.tilapia * 100)}%` : "—"}</b></div>
       <div><span>Pescadores registrados</span><b>${fmtInt.format(m.pescadores)}</b></div>
     </div>
